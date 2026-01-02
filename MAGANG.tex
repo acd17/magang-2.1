@@ -14,9 +14,15 @@
 
 % \usepackage{indentfirst}
 
-
 % Load konfigurasi LaTeX untuk tipe laporan thesis
 \usepackage{_internals/umnthesis}
+\usepackage{pdfpages}
+\usepackage{hyperref}
+\usepackage{ragged2e}
+\usepackage{enumitem}
+\usepackage{array}
+
+
 
 % Daftar pemenggalan suku kata dan istilah dalam LaTeX
 \input{_internals/hype.indonesia}
@@ -52,17 +58,38 @@
 \input{src/1.Awal/01-HalamanJudul}
 
 
-
 \addChapter{HALAMAN PERNYATAAN ORISINALITAS}
-\input{src/1.Awal/02-Plagiat}
+% Nonaktifkan watermark dan footer sementara
+\input{src/1.Awal/02a-Plagiat}
+
+\clearpage
+
+\addChapter{HALAMAN PERNYATAAN PENGGUNAAN BANTUAN KECERDASAN ARTIFISIAL (AI)}
+\input{src/1.Awal/02b-Pengunaan AI}
+\clearpage
+
+\addChapter{HALAMAN PERNYATAAN KEABSAHAN PERUSAHAAN}
+\input{src/1.Awal/03c-Keabsahan}
 \clearpage
 
 
 
-% %
-% % load halaman persetujuan (jika untuk maju sidang)
+%
+% load halaman persetujuan (jika untuk maju sidang)
 % \addChapter{HALAMAN PERSETUJUAN}
-% \input{src/1.Awal/03a-Persetujuan}
+% % \clearpage
+% \input{src/1.Awal/03b-Pengesahan}
+% % \thispagestyle{empty}
+% % \begingroup
+% % \renewcommand{\BgThispage}{} % Matikan watermark
+% % \includepdf[
+% %     pages=1,
+% %     pagecommand={},
+% %     width=\paperwidth,
+% %     % pagecommand={\thispagestyle{empty}} % Nonaktifkan footer
+% % ]{assets/pdf/LembarPersetujuan_00000077007.pdf}
+% % \endgroup
+% \clearpage
 
 % %
 % % load halaman pengesahan (jika sesudah selesai sidang) menggantikan halaman persetujuan
@@ -73,7 +100,6 @@
 
 \addChapter{HALAMAN PERSETUJUAN PUBLIKASI KARYA ILMIAH}
 \input{src/1.Awal/04-Publikasi}
-
 \clearpage
 
 
@@ -116,15 +142,15 @@
 \listoffigures
 \clearpage
 
-\phantomsection
-\lstlistoflistings
-\clearpage
+% \phantomsection
+% \lstlistoflistings
+% \clearpage
 
 
-\phantomsection
-\listofequation
-\addChapter{DAFTAR RUMUS}
-\clearpage
+% \phantomsection
+% \listofequation
+% \addChapter{DAFTAR RUMUS}
+% \clearpage
 
 
 % \phantomsection
@@ -167,11 +193,9 @@
 \singlespacing
 
 % \vspace{-1cm}
-\bibliographystyle{IEEEtran}
-% \bibliographystyle{kluwer}
-% \bibliographystyle{dcu}
-\bibliography{references}
 
+\bibliographystyle{IEEEtran}
+\bibliography{referencess}
 
 
 

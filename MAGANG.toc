@@ -1,16 +1,16 @@
 \contentsline {chapter}{HALAMAN JUDUL}{i}{section*.2}%
 \contentsline {chapter}{HALAMAN PERNYATAAN ORISINALITAS}{ii}{section*.4}%
-\contentsline {chapter}{HALAMAN PERSETUJUAN PUBLIKASI KARYA ILMIAH}{iii}{section*.5}%
-\contentsline {chapter}{HALAMAN PERSEMBAHAN/MOTO}{iv}{section*.6}%
-\contentsline {chapter}{KATA PENGANTAR}{v}{section*.7}%
-\contentsline {chapter}{ABSTRAK}{vi}{section*.8}%
-\contentsline {chapter}{ABSTRACT}{vii}{section*.9}%
-\contentsline {chapter}{\uppercase {Daftar Isi}}{viii}{section*.10}%
-\contentsline {chapter}{\uppercase {Daftar Tabel}}{ix}{section*.11}%
-\contentsline {chapter}{\uppercase {Daftar Gambar}}{x}{section*.12}%
-\contentsline {chapter}{DAFTAR KODE}{xi}{section*.13}%
-\contentsline {chapter}{DAFTAR RUMUS}{xii}{section*.15}%
-\contentsline {chapter}{DAFTAR LAMPIRAN}{xiii}{section*.17}%
+\contentsline {chapter}{HALAMAN PERNYATAAN PENGGUNAAN BANTUAN KECERDASAN ARTIFISIAL (AI)}{iii}{section*.5}%
+\contentsline {chapter}{HALAMAN PERNYATAAN KEABSAHAN PERUSAHAAN}{iv}{section*.6}%
+\contentsline {chapter}{HALAMAN PERSETUJUAN PUBLIKASI KARYA ILMIAH}{v}{section*.7}%
+\contentsline {chapter}{HALAMAN PERSEMBAHAN/MOTO}{vi}{section*.8}%
+\contentsline {chapter}{KATA PENGANTAR}{vii}{section*.9}%
+\contentsline {chapter}{ABSTRAK}{viii}{section*.10}%
+\contentsline {chapter}{ABSTRACT}{ix}{section*.11}%
+\contentsline {chapter}{\uppercase {Daftar Isi}}{x}{section*.12}%
+\contentsline {chapter}{\uppercase {Daftar Tabel}}{xi}{section*.13}%
+\contentsline {chapter}{\uppercase {Daftar Gambar}}{xii}{section*.14}%
+\contentsline {chapter}{DAFTAR LAMPIRAN}{xiv}{section*.16}%
 \contentsline {chapter}{BAB \hbox to\@tempdima {1\hfil }\uppercase {Pendahuluan}}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Latar Belakang Masalah}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Maksud dan Tujuan Kerja Magang}{2}{section.1.2}%
@@ -30,8 +30,9 @@
 \contentsline {subsection}{\numberline {3.4.2}\textit {Sitemap}}{10}{subsection.3.4.2}%
 \contentsline {subsection}{\numberline {3.4.3}\textit {Flowchart}}{12}{subsection.3.4.3}%
 \contentsline {section}{\numberline {3.5}\textit {Wireframe}}{21}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Implementasi}{28}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Kendala dan Solusi yang Ditemukan}{41}{section.3.7}%
-\contentsline {chapter}{BAB \hbox to\@tempdima {4\hfil }\uppercase {Simpulan dan Saran}}{42}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Simpulan}{42}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Saran}{42}{section.4.2}%
+\contentsline {section}{\numberline {3.6}Implementasi}{29}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Kendala dan Solusi yang Ditemukan}{42}{section.3.7}%
+\contentsline {chapter}{BAB \hbox to\@tempdima {4\hfil }\uppercase {Simpulan dan Saran}}{43}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Simpulan}{43}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Saran}{43}{section.4.2}%
+\contentsline {chapter}{\uppercase {Daftar Pustaka}}{45}{Item.36}%

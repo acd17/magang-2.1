@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.8)  28 DEC 2025 22:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.8)  2 JAN 2026 00:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1063,33 +1063,50 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidthlast=\dimen318
 \titlewidthfirst=\dimen319
 ))
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip138
+\RaggedLeftLeftskip=\skip139
+\RaggedRightLeftskip=\skip140
+\CenteringRightskip=\skip141
+\RaggedLeftRightskip=\skip142
+\RaggedRightRightskip=\skip143
+\CenteringParfillskip=\skip144
+\RaggedLeftParfillskip=\skip145
+\RaggedRightParfillskip=\skip146
+\JustifyingParfillskip=\skip147
+\CenteringParindent=\skip148
+\RaggedLeftParindent=\skip149
+\RaggedRightParindent=\skip150
+\JustifyingParindent=\skip151
+)
 (_internals/hype.indonesia.tex) (settings.tex) (istilah.tex) (MAGANG.aux)
 \openout1 = `MAGANG.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 38.
 LaTeX Font Info:    Trying to load font information for OMS+pzccm on input line
- 32.
+ 38.
 
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspzccm.fd
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -1126,7 +1143,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 38.
  (MAGANG.out) (MAGANG.out)
 \@outlinefile=\write4
 \openout4 = `MAGANG.out'.
@@ -1211,10 +1228,10 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
-<assets/pics/logo_UMN_clean.png, id=6, 451.6875pt x 451.6875pt>
+<assets/pics/logo_UMN_clean.png, id=158, 451.6875pt x 451.6875pt>
 File: assets/pics/logo_UMN_clean.png Graphic file (type png)
 <use assets/pics/logo_UMN_clean.png>
-Package pdftex.def Info: assets/pics/logo_UMN_clean.png  used on input line 25.
+Package pdftex.def Info: assets/pics/logo_UMN_clean.png  used on input line 24.
 
 (pdftex.def)             Requested size: 142.26378pt x 142.26163pt.
 
@@ -1228,31 +1245,122 @@ File: assets/pics/logo_UMN_clean.png Graphic file (type png)
 Package pdftex.def Info: assets/pics/logo_UMN_clean.png  used on input line 18.
 
 (pdftex.def)             Requested size: 142.26378pt x 142.26163pt.
-<assets/pics/fig_background_UMN.jpg, id=17, 654.94687pt x 1204.5pt>
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22         \MakeUppercase{ \large \Type} \\ \\
+                                                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<assets/pics/fig_background_UMN.jpg, id=169, 654.94687pt x 1204.5pt>
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 43.
+ 52.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [1 <./assets/pics/fig_background_UMN.jpg>]) (src/1.Awal/02-Plagiat.tex
+[1 <./assets/pics/fig_background_UMN.jpg>]) (src/1.Awal/02a-Plagiat.tex
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+\OT1/ptm/m/n/12 Menyatakan de-ngan sesung-guh-nya bahwa LA-PO-RAN CA-REER
+ []
+
+
 Underfull \hbox (badness 2376) in paragraph at lines 28--30
 \OT1/ptm/m/n/12 ini se-ba-gai ke-sala-han saya prib-adi dan bukan tang-gung jaw
 ab Uni-ver-si-tas
  []
 
-<assets/pics/ttd acd.png, id=24, 400.49625pt x 380.42125pt>
+<assets/pics/ttd acd.png, id=175, 400.49625pt x 380.42125pt>
 File: assets/pics/ttd acd.png Graphic file (type png)
 <use assets/pics/ttd acd.png>
 Package pdftex.def Info: assets/pics/ttd acd.png  used on input line 38.
-(pdftex.def)             Requested size: 119.50279pt x 113.51195pt.
+(pdftex.def)             Requested size: 79.66649pt x 75.67076pt.
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 59.
+ 44.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
 [2
 
- <./assets/pics/ttd acd.png>]) (src/1.Awal/04-Publikasi.tex
+ <./assets/pics/ttd acd.png>]) (src/1.Awal/02b-Pengunaan AI.tex
+Underfull \hbox (badness 6428) in paragraph at lines 12--12
+\OT1/ptm/m/n/12 Pengembangan Front-end Hu-man Re-source In-for-ma-tion
+ []
+
+
+Overfull \hbox (9.42253pt too wide) in paragraph at lines 7--15
+[] 
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 18--20
+\OT1/ptm/m/n/12 Dengan ini saya me-nya-ta-kan se-cara ju-jur meng-gu-nakan ban-
+tuan Ke-cer-dasan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+[]\OT1/ptm/m/n/12 Menggunakan AI se-ba-gaimana di-izinkan un-tuk mem-bantu dala
+m
+ []
+
+File: assets/pics/ttd acd.png Graphic file (type png)
+<use assets/pics/ttd acd.png>
+Package pdftex.def Info: assets/pics/ttd acd.png  used on input line 51.
+(pdftex.def)             Requested size: 79.66649pt x 75.67076pt.
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 56.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+[3
+
+
+]) (src/1.Awal/03c-Keabsahan.tex
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+\OT1/ptm/m/n/12 Start Space Cowork-ing Space Gad-ing
+ []
+
+
+Overfull \hbox (3.06305pt too wide) in paragraph at lines 19--26
+ [] 
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 33--34
+[]\OT1/ptm/m/n/12 Saya berse-dia mener-ima se-mua sanksi yang berlaku se-ba-gai
+mana
+ []
+
+<assets/pics/ttd spv.jpg, id=189, 573.64313pt x 353.06906pt>
+File: assets/pics/ttd spv.jpg Graphic file (type jpg)
+<use assets/pics/ttd spv.jpg>
+Package pdftex.def Info: assets/pics/ttd spv.jpg  used on input line 66.
+(pdftex.def)             Requested size: 69.71046pt x 42.9052pt.
+File: assets/pics/ttd acd.png Graphic file (type png)
+<use assets/pics/ttd acd.png>
+Package pdftex.def Info: assets/pics/ttd acd.png  used on input line 83.
+(pdftex.def)             Requested size: 59.75139pt x 56.75307pt.
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 94.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+[4
+
+
+ <./assets/pics/ttd spv.jpg>]) (src/1.Awal/04-Publikasi.tex
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+[]|\OT1/ptm/m/n/12 LAPORAN CA-REER
+ []
+
+
 Underfull \hbox (badness 1708) in paragraph at lines 27--28
 []\OT1/ptm/m/n/12 Saya tidak berse-dia karena dalam proses pen-ga-juan un-tuk d
 iter-bitkan
@@ -1273,16 +1381,16 @@ File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
  46.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[3
+[5
 
 
 ]) (src/1.Awal/05-Persembahan.tex)
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 82.
+ 108.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [4
+ [6
 
 
 ] (src/1.Awal/06-Kata Pengantar.tex
@@ -1311,9 +1419,9 @@ Package pdftex.def Info: assets/pics/ttd acd.png  used on input line 23.
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 87.
+ 113.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [5
+ [7
 
 
 ] (src/1.Awal/07a-Abstrak.tex
@@ -1326,50 +1434,16 @@ Sys-tem, Pro-duc-tion, Re-ac-tJS
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 92.
+ 118.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [6
+ [8
 
 
 ] (src/1.Awal/07b-Abstract.tex)
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 96.
-(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [7
-
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\uppercase' on input line 106.
-
-(MAGANG.toc)
-\tf@toc=\write5
-\openout5 = `MAGANG.toc'.
-
-File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
-<use assets/pics/fig_background_UMN.jpg>
-Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 107.
-(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [8
-
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\uppercase' on input line 112.
-
-(MAGANG.lot)
-\tf@lot=\write6
-\openout6 = `MAGANG.lot'.
-
-File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
-<use assets/pics/fig_background_UMN.jpg>
-Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 113.
+ 122.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
  [9
 
@@ -1377,90 +1451,87 @@ Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\uppercase' on input line 116.
+(hyperref)                removing `\uppercase' on input line 132.
 
-(MAGANG.lof)
+(MAGANG.toc
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+ [][] []\OT1/ptm/m/n/12 HA-LA-MAN PERNY-ATAAN PENG-GU-NAAN BAN-TUAN 
+ []
+
+)
+\tf@toc=\write5
+\openout5 = `MAGANG.toc'.
+
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 133.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+ [10
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 138.
+
+(MAGANG.lot
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+ [][] [][]\OT1/ptm/m/n/12 Pekerjaan yang di-lakukan tiap minggu se-lama 
+ []
+
+)
+\tf@lot=\write6
+\openout6 = `MAGANG.lot'.
+
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 139.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+ [11
+
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 142.
+
+(MAGANG.lof
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 48.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+ [12
+
+
+])
 \tf@lof=\write7
 \openout7 = `MAGANG.lof'.
 
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 117.
+ 143.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [10
-
-
-] (MAGANG.lol)
-\tf@lol=\write8
-\openout8 = `MAGANG.lol'.
+ [13] (MAGANG.apc)
+\tf@apc=\write8
+\openout8 = `MAGANG.apc'.
 
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 121.
+ 168.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [11
+ [14
 
 
-] (MAGANG.equ)
-\tf@equ=\write9
-\openout9 = `MAGANG.equ'.
-
-File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
-<use assets/pics/fig_background_UMN.jpg>
-Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 127.
-(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [12
-
-
-] (MAGANG.apc)
-\tf@apc=\write10
-\openout10 = `MAGANG.apc'.
-
-File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
-<use assets/pics/fig_background_UMN.jpg>
-Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 142.
-(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [13
-
-
-]
-(src/2.Isi/Bab1.tex
+] (src/2.Isi/Bab1.tex
 BAB 1.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 2.
-
-
-LaTeX Warning: Citation `Abbas2022' on page 1 undefined on input line 8.
-
-
-LaTeX Warning: Citation `Arafat2022' on page 1 undefined on input line 8.
-
-
-LaTeX Warning: Citation `Rohiyatun2020' on page 1 undefined on input line 8.
-
-
-LaTeX Warning: Citation `Nugraha2022' on page 1 undefined on input line 8.
-
-
-LaTeX Warning: Citation `Thakur2023' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `Hijrasil2023' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `Manunggal2022' on page 1 undefined on input line 10.
-
-
-LaTeX Warning: Citation `Jahan2014HRIS' on page 1 undefined on input line 12.
-
-
-LaTeX Warning: Citation `Tursunbayeva2020Planned' on page 1 undefined on input 
-line 12.
 
 
 Underfull \hbox (badness 2088) in paragraph at lines 12--13
@@ -1550,19 +1621,11 @@ BAB 2.
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 2.
 
-<assets/pics/Frame 5490.png, id=119, 845.1575pt x 845.1575pt>
+<assets/pics/Frame 5490.png, id=544, 845.1575pt x 845.1575pt>
 File: assets/pics/Frame 5490.png Graphic file (type png)
 <use assets/pics/Frame 5490.png>
 Package pdftex.def Info: assets/pics/Frame 5490.png  used on input line 12.
 (pdftex.def)             Requested size: 159.333pt x 159.33067pt.
-
-LaTeX Warning: Citation `PTVisiKaryaNusantara' on page 4 undefined on input lin
-e 14.
-
-
-LaTeX Warning: Citation `PTVisiKaryaNusantara' on page 4 undefined on input lin
-e 22.
-
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
@@ -1582,11 +1645,7 @@ Underfull \hbox (badness 4967) in paragraph at lines 33--34
 In-done-sia,
  []
 
-
-LaTeX Warning: Citation `PTVisiKaryaNusantara' on page 5 undefined on input lin
-e 40.
-
-<assets/pics/stucture.jpg, id=131, 10827.45125pt x 5842.82875pt>
+<assets/pics/stucture.jpg, id=555, 10827.45125pt x 5842.82875pt>
 File: assets/pics/stucture.jpg Graphic file (type jpg)
 <use assets/pics/stucture.jpg>
 Package pdftex.def Info: assets/pics/stucture.jpg  used on input line 44.
@@ -1595,10 +1654,6 @@ Package pdftex.def Info: assets/pics/stucture.jpg  used on input line 44.
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 44--45
  [][] 
  []
-
-
-LaTeX Warning: Citation `PTVisiKaryaNusantara' on page 5 undefined on input lin
-e 46.
 
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
@@ -1623,7 +1678,7 @@ Underfull \hbox (badness 1701) in paragraph at lines 9--10
 gem-bangkan
  []
 
-<assets/pics/stucture internal.jpg, id=146, 7470.91125pt x 4610.22375pt>
+<assets/pics/stucture internal.jpg, id=568, 7470.91125pt x 4610.22375pt>
 File: assets/pics/stucture internal.jpg Graphic file (type jpg)
 <use assets/pics/stucture internal.jpg>
 Package pdftex.def Info: assets/pics/stucture internal.jpg  used on input line 
@@ -1675,11 +1730,11 @@ Underfull \hbox (badness 2617) in paragraph at lines 107--108
 2 sitemap \OT1/ptm/m/n/12 sa-ngat pent-ing dalam
  []
 
-<assets/pics/sitemap hi A.png, id=172, 1123.19624pt x 619.56468pt>
+<assets/pics/sitemap hi A.png, id=586, 1123.19624pt x 619.56468pt>
 File: assets/pics/sitemap hi A.png Graphic file (type png)
 <use assets/pics/sitemap hi A.png>
 Package pdftex.def Info: assets/pics/sitemap hi A.png  used on input line 111.
-(pdftex.def)             Requested size: 318.67209pt x 175.77419pt.
+(pdftex.def)             Requested size: 358.50229pt x 197.74478pt.
 
 Underfull \hbox (badness 1546) in paragraph at lines 115--116
 \OT1/ptm/m/n/12 au-t-en-tikasi serta be-be-rapa man-a-je-men data inti dalam si
@@ -1697,7 +1752,7 @@ Underfull \hbox (badness 7168) in paragraph at lines 117--118
 cakup
  []
 
-<assets/pics/sitemap hi B.png, id=183, 1288.815pt x 529.98pt>
+<assets/pics/sitemap hi B.png, id=596, 1288.815pt x 529.98pt>
 File: assets/pics/sitemap hi B.png Graphic file (type png)
 <use assets/pics/sitemap hi B.png>
 Package pdftex.def Info: assets/pics/sitemap hi B.png  used on input line 121.
@@ -1713,7 +1768,7 @@ Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
  127.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
 [11 <./assets/pics/sitemap hi B.png>]
-<assets/pics/contract flow.png, id=191, 595.47469pt x 372.64218pt>
+<assets/pics/contract flow.png, id=602, 595.47469pt x 372.64218pt>
 File: assets/pics/contract flow.png Graphic file (type png)
 <use assets/pics/contract flow.png>
 Package pdftex.def Info: assets/pics/contract flow.png  used on input line 133.
@@ -1725,7 +1780,7 @@ Underfull \hbox (badness 2671) in paragraph at lines 137--138
 tm/m/n/12 pem-ba-gian ha-la-man berdasarkan
  []
 
-<assets/pics/contract list.png, id=192, 325.215pt x 475.02469pt>
+<assets/pics/contract list.png, id=603, 325.215pt x 475.02469pt>
 File: assets/pics/contract list.png Graphic file (type png)
 <use assets/pics/contract list.png>
 Package pdftex.def Info: assets/pics/contract list.png  used on input line 141.
@@ -1737,24 +1792,30 @@ Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
  144.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
 [12 <./assets/pics/contract flow.png>]
-Underfull \hbox (badness 4621) in paragraph at lines 145--146
-\OT1/ptm/m/n/12 di-gu-nakan \OT1/ptm/m/it/12 flowchart \OT1/ptm/m/n/12 yang di-
-tun-jukkan pada Gam-bar 3.5. Gam-bar 3.5
+Underfull \hbox (badness 1648) in paragraph at lines 145--146
+\OT1/ptm/m/n/12 de-ngan \OT1/ptm/m/it/12 per-mis-sion ap-proval \OT1/ptm/m/n/12
+ da-pat melakukan proses per-se-tu-juan (\OT1/ptm/m/it/12 ap-proval\OT1/ptm/m/n
+/12 )
  []
 
-<assets/pics/contract create.png, id=200, 632.3625pt x 315.42844pt>
+<assets/pics/contract create.png, id=609, 632.3625pt x 315.42844pt>
 File: assets/pics/contract create.png Graphic file (type png)
 <use assets/pics/contract create.png>
 Package pdftex.def Info: assets/pics/contract create.png  used on input line 14
 9.
-(pdftex.def)             Requested size: 318.67209pt x 158.9604pt.
+(pdftex.def)             Requested size: 398.3386pt x 198.6969pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 149--150
+ [][] 
+ []
+
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
  152.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
 [13 <./assets/pics/contract list.png>]
-<assets/pics/contract detail.png, id=207, 741.52031pt x 380.17032pt>
+<assets/pics/contract detail.png, id=615, 741.52031pt x 380.17032pt>
 File: assets/pics/contract detail.png Graphic file (type png)
 <use assets/pics/contract detail.png>
 Package pdftex.def Info: assets/pics/contract detail.png  used on input line 15
@@ -1771,36 +1832,42 @@ Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
  162.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
 [14 <./assets/pics/contract create.png> <./assets/pics/contract detail.png>]
-<assets/pics/payroll list.png, id=216, 296.60812pt x 402.00188pt>
+<assets/pics/payroll list.png, id=622, 296.60812pt x 402.00188pt>
 File: assets/pics/payroll list.png Graphic file (type png)
 <use assets/pics/payroll list.png>
-Package pdftex.def Info: assets/pics/payroll list.png  used on input line 165.
-(pdftex.def)             Requested size: 199.1693pt x 269.94711pt.
-<assets/pics/payroll create.png, id=217, 584.1825pt x 285.31593pt>
+Package pdftex.def Info: assets/pics/payroll list.png  used on input line 166.
+(pdftex.def)             Requested size: 278.83578pt x 377.93088pt.
+
+Underfull \hbox (badness 2343) in paragraph at lines 170--171
+\OT1/ptm/m/n/12 Peng-guna da-pat meli-hat selu-ruh item Pay-roll Set-ting apa-b
+ila men-da-p-atkan
+ []
+
+<assets/pics/payroll create.png, id=623, 584.1825pt x 285.31593pt>
 File: assets/pics/payroll create.png Graphic file (type png)
 <use assets/pics/payroll create.png>
-Package pdftex.def Info: assets/pics/payroll create.png  used on input line 173
+Package pdftex.def Info: assets/pics/payroll create.png  used on input line 174
 .
 (pdftex.def)             Requested size: 398.3386pt x 194.55646pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 173--174
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 174--175
  [][] 
  []
 
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 176.
+ 177.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
 [15 <./assets/pics/payroll list.png>]
-<assets/pics/dashboard flow.png, id=224, 566.86781pt x 492.33937pt>
+<assets/pics/dashboard flow.png, id=629, 566.86781pt x 492.33937pt>
 File: assets/pics/dashboard flow.png Graphic file (type png)
 <use assets/pics/dashboard flow.png>
-Package pdftex.def Info: assets/pics/dashboard flow.png  used on input line 181
+Package pdftex.def Info: assets/pics/dashboard flow.png  used on input line 182
 .
-(pdftex.def)             Requested size: 278.83578pt x 242.17993pt.
+(pdftex.def)             Requested size: 258.91765pt x 224.8787pt.
 
-Underfull \hbox (badness 1968) in paragraph at lines 185--186
+Underfull \hbox (badness 1968) in paragraph at lines 186--187
 \OT1/ptm/m/n/12 Apa-bila peng-guna meru-pakan \OT1/ptm/m/it/12 su-per-ad-min\OT
 1/ptm/m/n/12 , maka sis-tem akan menampilkan
  []
@@ -1808,55 +1875,55 @@ Underfull \hbox (badness 1968) in paragraph at lines 185--186
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 186.
+ 187.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
 [16 <./assets/pics/payroll create.png> <./assets/pics/dashboard flow.png>]
-<assets/pics/dashboard fixed.png, id=233, 705.38531pt x 408.77719pt>
+<assets/pics/dashboard fixed.png, id=637, 705.38531pt x 408.77719pt>
 File: assets/pics/dashboard fixed.png Graphic file (type png)
 <use assets/pics/dashboard fixed.png>
 Package pdftex.def Info: assets/pics/dashboard fixed.png  used on input line 19
-0.
-(pdftex.def)             Requested size: 398.3386pt x 230.84102pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 190--191
- [][] 
- []
-
-<assets/pics/dashboard shift.png, id=234, 489.32813pt x 427.5975pt>
+1.
+(pdftex.def)             Requested size: 358.50229pt x 207.7563pt.
+<assets/pics/dashboard shift.png, id=638, 489.32813pt x 427.5975pt>
 File: assets/pics/dashboard shift.png Graphic file (type png)
 <use assets/pics/dashboard shift.png>
 Package pdftex.def Info: assets/pics/dashboard shift.png  used on input line 19
-8.
-(pdftex.def)             Requested size: 278.83578pt x 243.66133pt.
+9.
+(pdftex.def)             Requested size: 398.3386pt x 348.09415pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 199--200
+ [][] 
+ []
+
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 201.
+ 202.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
 [17 <./assets/pics/dashboard fixed.png>]
-<assets/pics/event flow.png, id=242, 781.41937pt x 449.42906pt>
+<assets/pics/event flow.png, id=644, 781.41937pt x 449.42906pt>
 File: assets/pics/event flow.png Graphic file (type png)
 <use assets/pics/event flow.png>
-Package pdftex.def Info: assets/pics/event flow.png  used on input line 206.
+Package pdftex.def Info: assets/pics/event flow.png  used on input line 207.
 (pdftex.def)             Requested size: 358.50229pt x 206.19125pt.
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 209.
+ 210.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
  [18 <./assets/pics/dashboard shift.png>]
-<assets/pics/event create.png, id=249, 695.59875pt x 343.2825pt>
+<assets/pics/event create.png, id=650, 695.59875pt x 343.2825pt>
 File: assets/pics/event create.png Graphic file (type png)
 <use assets/pics/event create.png>
-Package pdftex.def Info: assets/pics/event create.png  used on input line 214.
+Package pdftex.def Info: assets/pics/event create.png  used on input line 215.
 (pdftex.def)             Requested size: 398.3386pt x 196.57922pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 214--215
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 215--216
  [][] 
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 218--219
+Underfull \hbox (badness 1158) in paragraph at lines 219--220
 \OT1/ptm/m/n/12 daf-tar karyawan yang ter-li-bat, warna yang akan di-ta-mpilkan
  pada kalen-der,
  []
@@ -1864,215 +1931,241 @@ Underfull \hbox (badness 1158) in paragraph at lines 218--219
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 219.
+ 220.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
 [19 <./assets/pics/event flow.png> <./assets/pics/event create.png>]
-<assets/pics/event edit.png, id=258, 746.79pt x 285.31593pt>
+<assets/pics/event edit.png, id=657, 746.79pt x 285.31593pt>
 File: assets/pics/event edit.png Graphic file (type png)
 <use assets/pics/event edit.png>
-Package pdftex.def Info: assets/pics/event edit.png  used on input line 222.
+Package pdftex.def Info: assets/pics/event edit.png  used on input line 223.
 (pdftex.def)             Requested size: 398.3386pt x 152.18756pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 222--223
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 223--224
  [][] 
  []
 
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 229.
+ 230.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
 [20 <./assets/pics/event edit.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
 \OT1/ptm/m/it/12 Hu-man Re-source In-ter-nal Sys-tem\OT1/ptm/m/n/12 . \OT1/ptm/
 m/it/12 Wire-frame \OT1/ptm/m/n/12 ini di-gu-nakan un-tuk
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 232--233
+Underfull \hbox (badness 3965) in paragraph at lines 233--234
 \OT1/ptm/m/n/12 memvi-su-al-isas-ikan struk-tur ha-la-man, susunan el-e-men, se
 rta alur in-ter-aksi
  []
 
-<assets/pics/wire contract list.png, id=265, 1835.85875pt x 1084.05pt>
+<assets/pics/wire contract list.png, id=663, 1835.85875pt x 1084.05pt>
 File: assets/pics/wire contract list.png Graphic file (type png)
 <use assets/pics/wire contract list.png>
 Package pdftex.def Info: assets/pics/wire contract list.png  used on input line
- 236.
+ 237.
 (pdftex.def)             Requested size: 318.67209pt x 188.15671pt.
-<assets/pics/wire contract create.png, id=266, 1835.85875pt x 1084.05pt>
+<assets/pics/wire contract create.png, id=664, 1835.85875pt x 1084.05pt>
 File: assets/pics/wire contract create.png Graphic file (type png)
 <use assets/pics/wire contract create.png>
 Package pdftex.def Info: assets/pics/wire contract create.png  used on input li
-ne 244.
+ne 245.
 (pdftex.def)             Requested size: 318.67209pt x 188.15671pt.
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 247.
+ 248.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
 [21 <./assets/pics/wire contract list.png>]
-<assets/pics/wire contract detail.png, id=274, 1835.85875pt x 1084.05pt>
+<assets/pics/wire contract detail.png, id=670, 1835.85875pt x 1084.05pt>
 File: assets/pics/wire contract detail.png Graphic file (type png)
 <use assets/pics/wire contract detail.png>
 Package pdftex.def Info: assets/pics/wire contract detail.png  used on input li
-ne 252.
+ne 253.
 (pdftex.def)             Requested size: 318.67209pt x 188.15671pt.
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 257.
+ 258.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
  [22 <./assets/pics/wire contract create.png> <./assets/pics/wire contract deta
 il.png>]
-<assets/pics/wire payroll list.png, id=283, 1835.85875pt x 1084.05pt>
+<assets/pics/wire payroll list.png, id=678, 1835.85875pt x 1084.05pt>
 File: assets/pics/wire payroll list.png Graphic file (type png)
 <use assets/pics/wire payroll list.png>
 Package pdftex.def Info: assets/pics/wire payroll list.png  used on input line 
-260.
+261.
 (pdftex.def)             Requested size: 398.3386pt x 235.20003pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 260--261
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 261--262
  [][] 
  []
 
-<assets/pics/wire payroll create.png, id=284, 1835.85875pt x 1084.05pt>
+<assets/pics/wire payroll create.png, id=679, 1835.85875pt x 1084.05pt>
 File: assets/pics/wire payroll create.png Graphic file (type png)
 <use assets/pics/wire payroll create.png>
 Package pdftex.def Info: assets/pics/wire payroll create.png  used on input lin
-e 268.
-(pdftex.def)             Requested size: 318.67209pt x 188.15671pt.
+e 269.
+(pdftex.def)             Requested size: 398.3386pt x 235.20003pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 269--270
+ [][] 
+ []
+
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
-<use assets/pics/fig_backgroun>
+<use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 271.
+ 272.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
 [23 <./assets/pics/wire payroll list.png>]
-Underfull \hbox (badness 2460) in paragraph at lines 272--273
+Underfull \hbox (badness 2460) in paragraph at lines 273--274
 \OT1/ptm/m/n/12 ini di-gu-nakan un-tuk menam-bahkan \OT1/ptm/m/it/12 item pay-r
 oll \OT1/ptm/m/n/12 baru, dan me-mung-kin-kan
  []
 
-<assets/pics/wire payroll detail.png, id=308, 1835.85875pt x 1084.05pt>
+<assets/pics/wire payroll detail.png, id=685, 1835.85875pt x 1084.05pt>
 File: assets/pics/wire payroll detail.png Graphic file (type png)
 <use assets/pics/wire payroll detail.png>
 Package pdftex.def Info: assets/pics/wire payroll detail.png  used on input lin
-e 276.
-(pdftex.def)             Requested size: 318.67209pt x 188.15671pt.
-<assets/pics/wire attend fixed.png, id=309, 1835.85875pt x 1084.05pt>
+e 277.
+(pdftex.def)             Requested size: 398.3386pt x 235.20003pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 277--278
+ [][] 
+ []
+
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 282.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+[24 <./assets/pics/wire payroll create.png> <./assets/pics/wire payroll detail.
+png>]
+<assets/pics/wire attend fixed.png, id=692, 1835.85875pt x 1084.05pt>
 File: assets/pics/wire attend fixed.png Graphic file (type png)
 <use assets/pics/wire attend fixed.png>
 Package pdftex.def Info: assets/pics/wire attend fixed.png  used on input line 
 285.
-(pdftex.def)             Requested size: 318.67209pt x 188.15671pt.
-File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
-<use assets/pics/fig_background_UMN.jpg>
-Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 288.
-(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[24 <./assets/pics/wire payroll create.png> <./assets/pics/wire payroll detail.
-png>]
-<assets/pics/wire attend shift.png, id=318, 1835.85875pt x 1084.05pt>
+(pdftex.def)             Requested size: 398.3386pt x 235.20003pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 285--286
+ [][] 
+ []
+
+<assets/pics/wire attend shift.png, id=693, 1835.85875pt x 1084.05pt>
 File: assets/pics/wire attend shift.png Graphic file (type png)
 <use assets/pics/wire attend shift.png>
 Package pdftex.def Info: assets/pics/wire attend shift.png  used on input line 
-293.
-(pdftex.def)             Requested size: 318.67209pt x 188.15671pt.
-<assets/pics/wire event dash.png, id=319, 1835.85875pt x 1084.05pt>
+294.
+(pdftex.def)             Requested size: 358.50229pt x 211.67838pt.
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 297.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+[25 <./assets/pics/wire attend fixed.png>]
+<assets/pics/wire event dash.png, id=699, 1835.85875pt x 1084.05pt>
 File: assets/pics/wire event dash.png Graphic file (type png)
 <use assets/pics/wire event dash.png>
 Package pdftex.def Info: assets/pics/wire event dash.png  used on input line 30
-1.
-(pdftex.def)             Requested size: 318.67209pt x 188.15671pt.
+2.
+(pdftex.def)             Requested size: 358.50229pt x 211.67838pt.
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 304.
+ 307.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [25 <./assets/pics/wire attend fixed.png> <./assets/pics/wire attend shift.png
->]
-<assets/pics/wire calendar view.png, id=328, 1835.85875pt x 1084.05pt>
+ [26 <./assets/pics/wire attend shift.png> <./assets/pics/wire event dash.png>]
+<assets/pics/wire calendar view.png, id=706, 1835.85875pt x 1084.05pt>
 File: assets/pics/wire calendar view.png Graphic file (type png)
 <use assets/pics/wire calendar view.png>
 Package pdftex.def Info: assets/pics/wire calendar view.png  used on input line
- 309.
-(pdftex.def)             Requested size: 318.67209pt x 188.15671pt.
+ 310.
+(pdftex.def)             Requested size: 398.3386pt x 235.20003pt.
 
-Underfull \hbox (badness 1337) in paragraph at lines 313--314
-[]  \OT1/ptm/m/n/12 Gam-bar 3.25 adalah \OT1/ptm/m/it/12 wire-frame \OT1/ptm/m/
-n/12 pada ha-la-man Event Cal-en-dar. Pada
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 310--311
+ [][] 
  []
 
-<assets/pics/wire calendar create.png, id=329, 1835.85875pt x 1084.05pt>
+
+Underfull \hbox (badness 1158) in paragraph at lines 314--315
+[]  \OT1/ptm/m/n/12 Gam-bar 3.25 adalah \OT1/ptm/m/it/12 wire-frame \OT1/ptm/m/
+n/12 pada ha-la-man \OT1/ptm/m/it/12 Event Cal-en-dar\OT1/ptm/m/n/12 . Pada
+ []
+
+<assets/pics/wire calendar create.png, id=707, 1835.85875pt x 1084.05pt>
 File: assets/pics/wire calendar create.png Graphic file (type png)
 <use assets/pics/wire calendar create.png>
 Package pdftex.def Info: assets/pics/wire calendar create.png  used on input li
-ne 317.
-(pdftex.def)             Requested size: 318.67209pt x 188.15671pt.
+ne 318.
+(pdftex.def)             Requested size: 358.50229pt x 211.67838pt.
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 320.
+ 321.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[26 <./assets/pics/wire event dash.png> <./assets/pics/wire calendar view.png>]
-File: assets/pics/wire calendar create.png Graphic file (type png)
-<use assets/pics/wire calendar create.png>
-Package pdftex.def Info: assets/pics/wire calendar create.png  used on input li
-ne 325.
-(pdftex.def)             Requested size: 278.83578pt x 164.63506pt.
+[27 <./assets/pics/wire calendar view.png>]
+<assets/pics/wire calendar modal.png, id=713, 1835.85875pt x 1084.05pt>
+File: assets/pics/wire calendar modal.png Graphic file (type png)
+<use assets/pics/wire calendar modal.png>
+Package pdftex.def Info: assets/pics/wire calendar modal.png  used on input lin
+e 326.
+(pdftex.def)             Requested size: 398.3386pt x 235.20003pt.
 
-Underfull \hbox (badness 4084) in paragraph at lines 333--334
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 326--327
+ [][] 
+ []
+
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 331.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+[28 <./assets/pics/wire calendar create.png> <./assets/pics/wire calendar modal
+.png>]
+Underfull \hbox (badness 4084) in paragraph at lines 334--335
 []  \OT1/ptm/m/it/12 Hu-man Re-source In-ter-nal Sys-tem \OT1/ptm/m/n/12 telah 
 berhasil dikem-bangkan dan
  []
 
-File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
-<use assets/pics/fig_background_UMN.jpg>
-Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 334.
-(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[27 <./assets/pics/wire calendar create.png>]
-<assets/pics/contract list view.png, id=346, 1419.05156pt x 689.57625pt>
+<assets/pics/contract list view.png, id=721, 1419.05156pt x 689.57625pt>
 File: assets/pics/contract list view.png Graphic file (type png)
 <use assets/pics/contract list view.png>
 Package pdftex.def Info: assets/pics/contract list view.png  used on input line
- 337.
-(pdftex.def)             Requested size: 398.3386pt x 193.56404pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 337--338
- [][] 
- []
-
-<assets/pics/contract input.png, id=347, 1418.29875pt x 689.57625pt>
+ 338.
+(pdftex.def)             Requested size: 358.50229pt x 174.20343pt.
+<assets/pics/contract input.png, id=722, 1418.29875pt x 689.57625pt>
 File: assets/pics/contract input.png Graphic file (type png)
 <use assets/pics/contract input.png>
-Package pdftex.def Info: assets/pics/contract input.png  used on input line 345
+Package pdftex.def Info: assets/pics/contract input.png  used on input line 346
 .
 (pdftex.def)             Requested size: 398.3386pt x 193.66927pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 345--346
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 346--347
  [][] 
  []
 
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 348.
+ 349.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[28 <./assets/pics/contract list view.png>]
-<assets/pics/contract input 2.png, id=354, 1428.08531pt x 706.89093pt>
+[29 <./assets/pics/contract list view.png>]
+<assets/pics/contract input 2.png, id=728, 1428.08531pt x 706.89093pt>
 File: assets/pics/contract input 2.png Graphic file (type png)
 <use assets/pics/contract input 2.png>
 Package pdftex.def Info: assets/pics/contract input 2.png  used on input line 3
-53.
+54.
 (pdftex.def)             Requested size: 398.3386pt x 197.17307pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 353--354
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 354--355
  [][] 
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 357--358
+Underfull \hbox (badness 1199) in paragraph at lines 358--359
 \OT1/ptm/m/n/12 ini, user da-pat melan-j-tukan dalam pem-bu-atan kon-trak baru 
 de-ngan mengisi
  []
@@ -2080,222 +2173,257 @@ de-ngan mengisi
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 358.
+ 359.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[29 <./assets/pics/contract input.png> <./assets/pics/contract input 2.png>]
-<assets/pics/add job title.png, id=364, 1424.32124pt x 702.37407pt>
+[30 <./assets/pics/contract input.png> <./assets/pics/contract input 2.png>]
+<assets/pics/add job title.png, id=735, 1424.32124pt x 702.37407pt>
 File: assets/pics/add job title.png Graphic file (type png)
 <use assets/pics/add job title.png>
-Package pdftex.def Info: assets/pics/add job title.png  used on input line 361.
+Package pdftex.def Info: assets/pics/add job title.png  used on input line 362.
 
 (pdftex.def)             Requested size: 398.3386pt x 196.42761pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 361--362
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 362--363
  [][] 
  []
 
-<assets/pics/leave contract.png, id=365, 1420.55719pt x 694.84593pt>
+<assets/pics/leave contract.png, id=736, 1420.55719pt x 694.84593pt>
 File: assets/pics/leave contract.png Graphic file (type png)
 <use assets/pics/leave contract.png>
-Package pdftex.def Info: assets/pics/leave contract.png  used on input line 369
+Package pdftex.def Info: assets/pics/leave contract.png  used on input line 370
 .
 (pdftex.def)             Requested size: 398.3386pt x 194.8418pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 369--370
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 370--371
  [][] 
  []
 
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 372.
+ 373.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[30 <./assets/pics/add job title.png>]
-<assets/pics/leave setting input.png, id=372, 1437.11906pt x 702.37407pt>
+[31 <./assets/pics/add job title.png>]
+<assets/pics/leave setting input.png, id=742, 1437.11906pt x 702.37407pt>
 File: assets/pics/leave setting input.png Graphic file (type png)
 <use assets/pics/leave setting input.png>
 Package pdftex.def Info: assets/pics/leave setting input.png  used on input lin
-e 377.
+e 378.
 (pdftex.def)             Requested size: 398.3386pt x 194.68068pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 377--378
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 378--379
  [][] 
  []
 
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 382.
+ 383.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[31 <./assets/pics/leave contract.png> <./assets/pics/leave setting input.png>]
+[32 <./assets/pics/leave contract.png> <./assets/pics/leave setting input.png>]
 
-Underfull \hbox (badness 1092) in paragraph at lines 382--383
+Underfull \hbox (badness 1092) in paragraph at lines 383--384
 \OT1/ptm/m/n/12 ha-la-man ini, \OT1/ptm/m/it/12 user \OT1/ptm/m/n/12 da-pat mem
 -buat pen-gat-u-ran cuti baru yang nantinya akan
  []
 
-<assets/pics/contract detail view.png, id=381, 1422.0628pt x 689.57625pt>
+<assets/pics/contract detail view.png, id=749, 1422.0628pt x 689.57625pt>
 File: assets/pics/contract detail view.png Graphic file (type png)
 <use assets/pics/contract detail view.png>
 Package pdftex.def Info: assets/pics/contract detail view.png  used on input li
-ne 386.
+ne 387.
 (pdftex.def)             Requested size: 398.3386pt x 193.15369pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 386--387
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 387--388
  [][] 
  []
 
-<assets/pics/payroll setting list.png, id=382, 1430.34375pt x 688.07062pt>
+<assets/pics/payroll setting list.png, id=750, 1430.34375pt x 688.07062pt>
 File: assets/pics/payroll setting list.png Graphic file (type png)
 <use assets/pics/payroll setting list.png>
 Package pdftex.def Info: assets/pics/payroll setting list.png  used on input li
-ne 394.
+ne 395.
 (pdftex.def)             Requested size: 318.67209pt x 153.29733pt.
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 397.
+ 398.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[32 <./assets/pics/contract detail view.png>]
-<assets/pics/payroll setting delete.png, id=389, 1440.13031pt x 705.38531pt>
+[33 <./assets/pics/contract detail view.png>]
+<assets/pics/payroll setting delete.png, id=756, 1440.13031pt x 705.38531pt>
 File: assets/pics/payroll setting delete.png Graphic file (type png)
 <use assets/pics/payroll setting delete.png>
 Package pdftex.def Info: assets/pics/payroll setting delete.png  used on input 
-line 402.
+line 403.
 (pdftex.def)             Requested size: 318.67209pt x 156.0786pt.
 
-Underfull \hbox (badness 1931) in paragraph at lines 406--407
+Underfull \hbox (badness 1931) in paragraph at lines 407--408
 \OT1/ptm/m/it/12 Set-ting List\OT1/ptm/m/n/12 . Modal ini berfungsi se-ba-gai k
 on-fir-masi se-belum su-atu item
  []
 
 
-Underfull \hbox (badness 2277) in paragraph at lines 406--407
+Underfull \hbox (badness 2277) in paragraph at lines 407--408
 \OT1/ptm/m/it/12 pay-roll \OT1/ptm/m/n/12 di-ha-pus dari sis-tem. De-ngan adany
 a modal ini, peng-guna da-pat
  []
 
-<assets/pics/payroll setting input.png, id=390, 1433.355pt x 686.565pt>
+<assets/pics/payroll setting input.png, id=757, 1433.355pt x 686.565pt>
 File: assets/pics/payroll setting input.png Graphic file (type png)
 <use assets/pics/payroll setting input.png>
 Package pdftex.def Info: assets/pics/payroll setting input.png  used on input l
-ine 412.
-(pdftex.def)             Requested size: 318.67209pt x 152.63713pt.
-<assets/pics/payroll setting input 2.png, id=391, 1440.13031pt x 705.38531pt>
-File: assets/pics/payroll setting input 2.png Graphic file (type png)
-<use assets/pics/payroll setting input 2.png>
-Package pdftex.def Info: assets/pics/payroll setting input 2.png  used on input
- line 418.
-(pdftex.def)             Requested size: 318.67209pt x 156.0786pt.
+ine 411.
+(pdftex.def)             Requested size: 358.50229pt x 171.71416pt.
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 423.
+ 414.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[33 <./assets/pics/payroll setting list.png> <./assets/pics/payroll setting del
+[34 <./assets/pics/payroll setting list.png> <./assets/pics/payroll setting del
 ete.png>]
-<assets/pics/attendance fixed.png, id=400, 1422.0628pt x 689.57625pt>
+Underfull \hbox (badness 1048) in paragraph at lines 415--416
+\OT1/ptm/m/it/12 form field \OT1/ptm/m/n/12 utama, yaitu \OT1/ptm/m/it/12 Item 
+Name \OT1/ptm/m/n/12 dan \OT1/ptm/m/it/12 De-scrip-tion\OT1/ptm/m/n/12 , yang d
+i-gu-nakan un-tuk
+ []
+
+<assets/pics/payroll setting input 2.png, id=765, 1440.13031pt x 705.38531pt>
+File: assets/pics/payroll setting input 2.png Graphic file (type png)
+<use assets/pics/payroll setting input 2.png>
+Package pdftex.def Info: assets/pics/payroll setting input 2.png  used on input
+ line 419.
+(pdftex.def)             Requested size: 358.50229pt x 175.59245pt.
+<assets/pics/attendance fixed.png, id=766, 1422.0628pt x 689.57625pt>
 File: assets/pics/attendance fixed.png Graphic file (type png)
 <use assets/pics/attendance fixed.png>
 Package pdftex.def Info: assets/pics/attendance fixed.png  used on input line 4
-28.
+27.
 (pdftex.def)             Requested size: 318.67209pt x 154.52715pt.
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 431.
+ 430.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [34 <./assets/pics/payroll setting input.png> <./assets/pics/payroll setting i
-nput 2.png>]
-<assets/pics/attendance shift.png, id=408, 1421.31pt x 685.8122pt>
+[35 <./assets/pics/payroll setting input.png> <./assets/pics/payroll setting in
+put 2.png>]
+<assets/pics/attendance shift.png, id=773, 1421.31pt x 685.8122pt>
 File: assets/pics/attendance shift.png Graphic file (type png)
 <use assets/pics/attendance shift.png>
 Package pdftex.def Info: assets/pics/attendance shift.png  used on input line 4
-36.
+35.
 (pdftex.def)             Requested size: 318.67209pt x 153.76738pt.
-<assets/pics/dashboard before.png, id=409, 1422.81563pt x 688.07062pt>
+<assets/pics/dashboard before.png, id=774, 1422.81563pt x 688.07062pt>
 File: assets/pics/dashboard before.png Graphic file (type png)
 <use assets/pics/dashboard before.png>
 Package pdftex.def Info: assets/pics/dashboard before.png  used on input line 4
-46.
+43.
 (pdftex.def)             Requested size: 318.67209pt x 154.10576pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 446--447
- [][] 
- []
-
-<assets/pics/dashboard after.png, id=410, 1420.55719pt x 686.565pt>
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 446.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+ [36 <./assets/pics/attendance fixed.png> <./assets/pics/attendance shift.png>]
+<assets/pics/dashboard after.png, id=781, 1420.55719pt x 686.565pt>
 File: assets/pics/dashboard after.png Graphic file (type png)
 <use assets/pics/dashboard after.png>
 Package pdftex.def Info: assets/pics/dashboard after.png  used on input line 45
-2.
+1.
 (pdftex.def)             Requested size: 318.67209pt x 154.0095pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 452--453
- [][] 
- []
-
-File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
-<use assets/pics/fig_background_UMN.jpg>
-Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 457.
-(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[35 <./assets/pics/attendance fixed.png> <./assets/pics/attendance shift.png>]
-<assets/pics/event calendar.png, id=420, 1427.3325pt x 705.38531pt>
+<assets/pics/event calendar.png, id=782, 1427.3325pt x 705.38531pt>
 File: assets/pics/event calendar.png Graphic file (type png)
 <use assets/pics/event calendar.png>
-Package pdftex.def Info: assets/pics/event calendar.png  used on input line 466
+Package pdftex.def Info: assets/pics/event calendar.png  used on input line 459
 .
 (pdftex.def)             Requested size: 398.3386pt x 196.84998pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 466--467
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 459--460
  [][] 
  []
 
-<assets/pics/event calendar collapse.png, id=421, 1425.07407pt x 703.12688pt>
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 462.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+[37 <./assets/pics/dashboard before.png> <./assets/pics/dashboard after.png>]
+Underfull \hbox (badness 3343) in paragraph at lines 463--464
+[]  \OT1/ptm/m/n/12 Gam-bar 3.43 me-nun-jukkan tampi-lan ha-la-man \OT1/ptm/m/i
+t/12 Event Cal-en-dar \OT1/ptm/m/n/12 yang
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 463--464
+\OT1/ptm/m/n/12 pada tang-gal yang sama, sis-tem menye-di-akan tombol \OT1/ptm/
+m/it/12 See More \OT1/ptm/m/n/12 yang akan
+ []
+
+<assets/pics/event calendar collapse.png, id=789, 1425.07407pt x 703.12688pt>
 File: assets/pics/event calendar collapse.png Graphic file (type png)
 <use assets/pics/event calendar collapse.png>
 Package pdftex.def Info: assets/pics/event calendar collapse.png  used on input
- line 472.
+ line 467.
 (pdftex.def)             Requested size: 398.3386pt x 196.53085pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 472--473
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 467--468
  [][] 
  []
 
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 477.
+ 472.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[36 <./assets/pics/dashboard before.png> <./assets/pics/dashboard after.png>]
-File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
-<use assets/pics/fig_background_UMN.jpg>
-Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 481.
-(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-
-[37 <./assets/pics/event calendar.png> <./assets/pics/event calendar collapse.p
+[38 <./assets/pics/event calendar.png> <./assets/pics/event calendar collapse.p
 ng>]
-<assets/pics/event modal meeting.png, id=436, 1426.57968pt x 701.62125pt>
+<assets/pics/event modal meeting.png, id=796, 1426.57968pt x 701.62125pt>
 File: assets/pics/event modal meeting.png Graphic file (type png)
 <use assets/pics/event modal meeting.png>
 Package pdftex.def Info: assets/pics/event modal meeting.png  used on input lin
-e 487.
+e 479.
 (pdftex.def)             Requested size: 398.3386pt x 195.9066pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 479--480
+ [][] 
+ []
+
+<assets/pics/event modal holiday.png, id=797, 1424.32124pt x 700.11563pt>
+File: assets/pics/event modal holiday.png Graphic file (type png)
+<use assets/pics/event modal holiday.png>
+Package pdftex.def Info: assets/pics/event modal holiday.png  used on input lin
+e 487.
+(pdftex.def)             Requested size: 398.3386pt x 195.796pt.
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 487--488
  [][] 
  []
 
-<assets/pics/event modal holiday.png, id=437, 1424.32124pt x 700.11563pt>
-File: assets/pics/event modal holiday.png Graphic file (type png)
-<use assets/pics/event modal holiday.png>
-Package pdftex.def Info: assets/pics/event modal holiday.png  used on input lin
-e 493.
-(pdftex.def)             Requested size: 398.3386pt x 195.796pt.
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 490.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+[39 <./assets/pics/event modal meeting.png>]
+Underfull \hbox (badness 1924) in paragraph at lines 491--492
+\OT1/ptm/m/n/12 Modal ini hanya berisi in-for-masi judul hari libur, deskripsi,
+ serta tang-gal
+ []
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 493--494
+
+Underfull \hbox (badness 1014) in paragraph at lines 493--494
+[]  \OT1/ptm/m/n/12 Se-lain itu, ter-da-pat tombol aksi \OT1/ptm/m/it/12 Edit \
+OT1/ptm/m/n/12 (ikon \OT1/ptm/m/it/12 pen-cil\OT1/ptm/m/n/12 ) yang men-garahka
+n
+ []
+
+<assets/pics/event input before.png, id=803, 1428.08531pt x 683.55376pt>
+File: assets/pics/event input before.png Graphic file (type png)
+<use assets/pics/event input before.png>
+Package pdftex.def Info: assets/pics/event input before.png  used on input line
+ 497.
+(pdftex.def)             Requested size: 398.3386pt x 190.66364pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 497--498
  [][] 
  []
 
@@ -2304,71 +2432,43 @@ File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
  502.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[38 <./assets/pics/event modal meeting.png> <./assets/pics/event modal holiday.
-png>]
-Underfull \hbox (badness 1014) in paragraph at lines 503--504
-[]  \OT1/ptm/m/n/12 Se-lain itu, ter-da-pat tombol aksi \OT1/ptm/m/it/12 Edit \
-OT1/ptm/m/n/12 (ikon \OT1/ptm/m/it/12 pen-cil\OT1/ptm/m/n/12 ) yang men-garahka
-n
- []
-
-<assets/pics/event input before.png, id=445, 1428.08531pt x 683.55376pt>
-File: assets/pics/event input before.png Graphic file (type png)
-<use assets/pics/event input before.png>
-Package pdftex.def Info: assets/pics/event input before.png  used on input line
- 509.
-(pdftex.def)             Requested size: 358.50229pt x 171.59727pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 509--510
- [][] 
- []
-
-<assets/pics/event input after.png, id=446, 1426.57968pt x 688.07062pt>
+[40 <./assets/pics/event modal holiday.png> <./assets/pics/event input before.p
+ng>]
+<assets/pics/event input after.png, id=811, 1426.57968pt x 688.07062pt>
 File: assets/pics/event input after.png Graphic file (type png)
 <use assets/pics/event input after.png>
 Package pdftex.def Info: assets/pics/event input after.png  used on input line 
-515.
-(pdftex.def)             Requested size: 358.50229pt x 172.90965pt.
+505.
+(pdftex.def)             Requested size: 398.3386pt x 192.123pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 515--516
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 505--506
  [][] 
  []
 
-File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
-<use assets/pics/fig_background_UMN.jpg>
-Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 522.
-(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[39 <./assets/pics/event input before.png> <./assets/pics/event input after.png
->]
-Underfull \hbox (badness 1448) in paragraph at lines 524--525
-[]  \OT1/ptm/m/n/12 Gam-bar 3.43 (b) me-nun-jukkan tampi-lan ha-la-man \OT1/ptm
-/m/it/12 Event In-put \OT1/ptm/m/n/12 sete-lah
- []
-
-<assets/pics/event input holiday.png, id=454, 1437.11906pt x 703.12688pt>
+<assets/pics/event input holiday.png, id=812, 1437.11906pt x 703.12688pt>
 File: assets/pics/event input holiday.png Graphic file (type png)
 <use assets/pics/event input holiday.png>
 Package pdftex.def Info: assets/pics/event input holiday.png  used on input lin
-e 528.
+e 513.
 (pdftex.def)             Requested size: 398.3386pt x 194.88934pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 528--529
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 513--514
  [][] 
  []
 
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 535.
+ 518.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[40 <./assets/pics/event input holiday.png>]) (src/2.Isi/Bab4.tex
+[41 <./assets/pics/event input after.png> <./assets/pics/event input holiday.pn
+g>]) (src/2.Isi/Bab4.tex
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
  2.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [41]
+ [42]
 BAB 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -2403,7 +2503,7 @@ File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
  20.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
-[42
+[43
 
 ]
 Underfull \hbox (badness 2837) in paragraph at lines 21--22
@@ -2412,14 +2512,38 @@ t \OT1/ptm/m/n/12 pada fi-tur \OT1/ptm/m/it/12 at-ten-dance \OT1/ptm/m/n/12 dan
 
  []
 
-) (MAGANG.bbl) (src/3.Akhir/lampiran.tex
+) (MAGANG.bbl
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 2.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+ [44]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 2.
+
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 101.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+[45
+
+]
+Underfull \hbox (badness 1215) in paragraph at lines 103--105
+[]\OT1/ptm/m/n/12 PT Visi Karya Nu-san-tara, ``Doku-men-tasi In-ter-nal,'' 2025
+, Doku-men-tasi
+ []
+
+) (src/3.Akhir/lampiran.tex
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
  5.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [43]
-<assets/pdf/Cover latter - amanda citra dewanti.pdf, id=485, page=1, 597.51233p
+ [46]
+<assets/pdf/Cover latter - amanda citra dewanti.pdf, id=860, page=1, 597.51233p
 t x 845.0471pt>
 File: assets/pdf/Cover latter - amanda citra dewanti.pdf Graphic file (type pdf
 )
@@ -2432,8 +2556,8 @@ File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
  18.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [44 <./assets/pdf/Cover latter - amanda citra dewanti.pdf>]
-<assets/pdf/mbkm magang 2 .pdf, id=510, page=1, 1754.555pt x 2595.6975pt>
+ [47 <./assets/pdf/Cover latter - amanda citra dewanti.pdf>]
+<assets/pdf/mbkm magang 2 .pdf, id=885, page=1, 1754.555pt x 2595.6975pt>
 File: assets/pdf/mbkm magang 2 .pdf Graphic file (type pdf)
 <use assets/pdf/mbkm magang 2 .pdf, page 1>
 Package pdftex.def Info: assets/pdf/mbkm magang 2 .pdf , page1 used on input li
@@ -2444,10 +2568,10 @@ File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
  26.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [45
+ [48
 
  <./assets/pdf/mbkm magang 2 .pdf>]
-<assets/pdf/daily task magang 2.pdf, id=519, 1836.8625pt x 2709.12125pt>
+<assets/pdf/daily task magang 2.pdf, id=894, 1836.8625pt x 2709.12125pt>
 File: assets/pdf/daily task magang 2.pdf Graphic file (type pdf)
 <use assets/pdf/daily task magang 2.pdf>
 Package pdftex.def Info: assets/pdf/daily task magang 2.pdf  used on input line
@@ -2458,10 +2582,10 @@ File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
  34.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [46
+ [49
 
  <./assets/pdf/daily task magang 2.pdf>]
-<assets/pdf/verification magang 2.pdf, id=528, page=1, 1785.67125pt x 2644.8812
+<assets/pdf/verification magang 2.pdf, id=903, page=1, 1785.67125pt x 2644.8812
 6pt>
 File: assets/pdf/verification magang 2.pdf Graphic file (type pdf)
 <use assets/pdf/verification magang 2.pdf, page 1>
@@ -2473,45 +2597,274 @@ File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
  42.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
- [47
+ [50
 
  <./assets/pdf/verification magang 2.pdf>]
-<assets/pdf/00000066344_Counseling_AllMeeting (1).pdf, id=538, page=1, 597.5123
+<assets/pdf/Offering Letter - Amanda Citra Dewanti.pdf, id=912, page=1, 614.295
+pt x 794.97pt>
+File: assets/pdf/Offering Letter - Amanda Citra Dewanti.pdf Graphic file (type 
+pdf)
+<use assets/pdf/Offering Letter - Amanda Citra Dewanti.pdf, page 1>
+Package pdftex.def Info: assets/pdf/Offering Letter - Amanda Citra Dewanti.pdf 
+, page1 used on input line 47.
+(pdftex.def)             Requested size: 398.3386pt x 515.49922pt.
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 49.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+ [51
+
+ <./assets/pdf/Offering Letter - Amanda Citra Dewanti.pdf>]
+<assets/pdf/00000066344_Counseling_AllMeeting (1).pdf, id=953, page=1, 597.5123
 3pt x 845.0471pt>
 File: assets/pdf/00000066344_Counseling_AllMeeting (1).pdf Graphic file (type p
 df)
 <use assets/pdf/00000066344_Counseling_AllMeeting (1).pdf, page 1>
 Package pdftex.def Info: assets/pdf/00000066344_Counseling_AllMeeting (1).pdf ,
- page1 used on input line 48.
+ page1 used on input line 55.
 (pdftex.def)             Requested size: 398.3386pt x 563.36766pt.
 File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
 <use assets/pics/fig_background_UMN.jpg>
 Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
- 50.
+ 57.
 (pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+ [52
 
-[48
+ <./assets/pdf/00000066344_Counseling_AllMeeting (1).pdf>]
 
- <./assets/pdf/00000066344_Counseling_AllMeeting (1).pdf>]) (MAGANG.aux)
+! Package xkeyval Error: `pages' undefined in families `Gin'.
+
+See the xkeyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...,pagecommand={}]{assets/pdf/turnitin.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package xkeyval Error: `fitpaper' undefined in families `Gin'.
+
+See the xkeyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...,pagecommand={}]{assets/pdf/turnitin.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package xkeyval Error: `pagecommand' undefined in families `Gin'.
+
+See the xkeyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...,pagecommand={}]{assets/pdf/turnitin.pdf}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+
+pdfTeX warning: pdflatex.exe (file ./assets/pdf/turnitin.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<assets/pdf/turnitin.pdf, id=977, 614.295pt x 794.97pt>
+File: assets/pdf/turnitin.pdf Graphic file (type pdf)
+<use assets/pdf/turnitin.pdf>
+Package pdftex.def Info: assets/pdf/turnitin.pdf  used on input line 63.
+(pdftex.def)             Requested size: 398.3386pt x 515.49922pt.
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 65.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+[53
+
+ <./assets/pdf/turnitin.pdf>] (src/3.Akhir/Form Penggunaan AI.tex
+Overfull \hbox (0.83905pt too wide) in paragraph at lines 26--26
+ []|\OT1/ptm/b/n/10 No| 
+ []
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.32 \hline
+           
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.33 \endfirsthead
+                  
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Extra alignment tab has been changed to \cr.
+<template> ... width\arrayrulewidth }\endtemplate 
+                                                  
+l.33 \endfirsthead
+                  
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \hbox (71.95445pt too wide) in alignment at lines 23--33
+[] [] [] [] [] []
+ []
+
+
+Overfull \hbox (0.83905pt too wide) in paragraph at lines 36--36
+ []|\OT1/ptm/b/n/10 No| 
+ []
+
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.42 \hline
+           
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.43 \endhead
+             
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Extra alignment tab has been changed to \cr.
+<template> ... width\arrayrulewidth }\endtemplate 
+                                                  
+l.43 \endhead
+             
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \hbox (71.95445pt too wide) in alignment at lines 33--43
+[] [] [] [] [] []
+ []
+
+<assets/pics/promp 1.png, id=1016, 845.40843pt x 538.26094pt>
+File: assets/pics/promp 1.png Graphic file (type png)
+<use assets/pics/promp 1.png>
+Package pdftex.def Info: assets/pics/promp 1.png  used on input line 50.
+(pdftex.def)             Requested size: 85.35826pt x 54.33846pt.
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.50 ...ewidth]{assets/pics/promp 1.png} \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.51 
+     
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Extra alignment tab has been changed to \cr.
+<template> ... width\arrayrulewidth }\endtemplate 
+                                                  
+l.51 
+     
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+<assets/pics/promp 2.png, id=1017, 749.80125pt x 428.35031pt>
+File: assets/pics/promp 2.png Graphic file (type png)
+<use assets/pics/promp 2.png>
+Package pdftex.def Info: assets/pics/promp 2.png  used on input line 57.
+(pdftex.def)             Requested size: 85.35826pt x 48.75923pt.
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.57 ...ewidth]{assets/pics/promp 2.png} \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.58 
+     
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Extra alignment tab has been changed to \cr.
+<template> ... width\arrayrulewidth }\endtemplate 
+                                                  
+l.58 
+     
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+<assets/pics/promp 3.png, id=1018, 1169.11781pt x 551.81157pt>
+File: assets/pics/promp 3.png Graphic file (type png)
+<use assets/pics/promp 3.png>
+Package pdftex.def Info: assets/pics/promp 3.png  used on input line 64.
+(pdftex.def)             Requested size: 85.35826pt x 40.28107pt.
+! Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.64 ...ewidth]{assets/pics/promp 3.png} \\ \hline
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.65 
+     
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Extra alignment tab has been changed to \cr.
+<template> ... width\arrayrulewidth }\endtemplate 
+                                                  
+l.65 
+     
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \hbox (71.95445pt too wide) in alignment at lines 43--66
+[] [] [] [] [] []
+ []
+
+))
+File: assets/pics/fig_background_UMN.jpg Graphic file (type jpg)
+<use assets/pics/fig_background_UMN.jpg>
+Package pdftex.def Info: assets/pics/fig_background_UMN.jpg  used on input line
+ 211.
+(pdftex.def)             Requested size: 298.75394pt x 549.4268pt.
+ [54
+
+ <./assets/pics/promp 1.png> <./assets/pics/promp 2.png> <./assets/pics/promp 3
+.png>] (MAGANG.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `MAGANG.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `MAGANG.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  019CB394696BA8680BF010F1370ED66F;5952.
+Package rerunfilecheck Info: File `MAGANG.out' has not changed.
+(rerunfilecheck)             Checksum: 8E7548C029A4701463600947C9165F17;6494.
  )
 (\end occurred inside a group at level 2)
 
@@ -2519,24 +2872,22 @@ Package rerunfilecheck Info: Checksums for `MAGANG.out':
 ### simple group (level 1) entered at line 20 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 28198 strings out of 467871
- 527821 string characters out of 5418860
- 987360 words of memory out of 5000000
- 56259 multiletter control sequences out of 15000+600000
- 662014 words of font info for 107 fonts, out of 8000000 for 9000
+ 28458 strings out of 467871
+ 534349 string characters out of 5418860
+ 996958 words of memory out of 5000000
+ 56471 multiletter control sequences out of 15000+600000
+ 660330 words of font info for 105 fonts, out of 8000000 for 9000
  1210 hyphenation exceptions out of 8191
- 132i,12n,135p,1149b,1212s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 132i,13n,135p,1140b,1222s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/symbols/msam10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts
 /type1/urw/times/utmb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmbi8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/
 type1/urw/times/utmr8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on MAGANG.pdf (62 pages, 10461953 bytes).
+Output written on MAGANG.pdf (69 pages, 11043662 bytes).
 PDF statistics:
- 625 PDF objects out of 1000 (max. 8388607)
- 184 named destinations out of 1000 (max. 500000)
- 303 words of extra memory for PDF output out of 10000 (max. 10000000)
-
-put out of 10000 (max. 10000000)
+ 1097 PDF objects out of 1200 (max. 8388607)
+ 216 named destinations out of 1000 (max. 500000)
+ 642 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -108,7 +108,7 @@
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=0.8 \linewidth]{assets/pics/sitemap hi A.png}}
+    \fbox{\includegraphics[width=0.9 \linewidth]{assets/pics/sitemap hi A.png}}
     \caption{\textit{Sitemap A Human Resource Information System}}
 \end{figure}
 
@@ -142,15 +142,15 @@
     \caption{\textit{Flowchart Contract List}}
 \end{figure}
 
-\hspace{2em} Untuk menggambarkan alur pengelolaan data kontrak pada sistem HRIS, digunakan \textit{flowchart} yang ditunjukkan pada Gambar 3.5. Gambar 3.5 memperlihatkan \textit{flowchart} pada halaman \textit{Contract List}. Proses dimulai dengan pemanggilan \textit{GET API} untuk menampilkan seluruh data \textit{contract} yang telah tersimpan di dalam sistem. Selanjutnya, pengguna yang memiliki \textit{permission create} dapat melakukan pembuatan \textit{contract} baru, sedangkan pengguna dengan \textit{permission approval} dapat melakukan proses persetujuan (\textit{approval}) terhadap \textit{contract} sesuai dengan peran yang dimiliki.
+\hspace{2em} Gambar 3.5 memperlihatkan \textit{flowchart} pada halaman \textit{Contract List}. Proses dimulai dengan pemanggilan \textit{GET API} untuk menampilkan seluruh data \textit{contract} yang telah tersimpan di dalam sistem. Selanjutnya, pengguna yang memiliki \textit{permission create} dapat melakukan pembuatan \textit{contract} baru, sedangkan pengguna dengan \textit{permission approval} dapat melakukan proses persetujuan (\textit{approval}) terhadap \textit{contract} sesuai dengan peran yang dimiliki.
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=0.8\linewidth]{assets/pics/contract create.png}}
+    \fbox{\includegraphics[width=1\linewidth]{assets/pics/contract create.png}}
     \caption{\textit{Flowchart Contract Create}}
 \end{figure}
 
-\hspace{2em} Untuk menjelaskan alur pembuatan kontrak karyawan pada sistem HRIS, digunakan \textit{flowchart} seperti yang ditunjukkan pada Gambar 3.6. Gambar 3.6 merupakan \textit{flowchart} pada halaman \textit{Contract Create}. Proses dimulai dengan menampilkan \textit{form field} yang digunakan untuk mengisi data perjanjian karyawan. Pada halaman ini, pengguna dapat melakukan kustomisasi terhadap data \textit{penalty \& rule}, jadwal kerja karyawan, serta komponen gaji yang disesuaikan dengan kebutuhan. Setelah seluruh data diisi, sistem akan menampilkan \textit{modal} konfirmasi, dan setelah pengguna memberikan persetujuan, data kontrak akan disimpan ke dalam \textit{database}.
+\hspace{2em} Gambar 3.6 merupakan \textit{flowchart} pada halaman \textit{Contract Create}. Proses dimulai dengan menampilkan \textit{form field} yang digunakan untuk mengisi data perjanjian karyawan. Pada halaman ini, pengguna dapat melakukan kustomisasi terhadap data \textit{penalty \& rule}, jadwal kerja karyawan, serta komponen gaji yang disesuaikan dengan kebutuhan. Setelah seluruh data diisi, sistem akan menampilkan \textit{modal} konfirmasi, dan setelah pengguna memberikan persetujuan, data kontrak akan disimpan ke dalam \textit{database}.
 
 \begin{figure}
     \centering
@@ -158,15 +158,16 @@
     \caption{\textit{Flowchart Contract Detail Approval}}
 \end{figure}
 
- \hspace{2em} Gambar 3.7 menunjukkan \textit{flowchart} pada halaman \textit{Contract Detail Approval}. Proses dimulai dengan pemanggilan GET API untuk mengambil data kontrak yang dipilih. Jika pengguna memiliki \textit{permission approval}, maka dapat melakukan \textit{accept} atau \textit{reject} terhadap kontrak. Setelah itu, ditampilkan modal konfirmasi, dan kontrak disimpan ke \textit{database} serta dikirim kepada pengguna untuk mengaktifkan masa kontrak.
+\pagebreak
+\hspace{2em} Gambar 3.7 menunjukkan \textit{flowchart} pada halaman \textit{Contract Detail Approval}. Proses dimulai dengan pemanggilan GET API untuk mengambil data kontrak yang dipilih. Jika pengguna memiliki \textit{permission approval}, maka dapat melakukan \textit{accept} atau \textit{reject} terhadap kontrak. Setelah itu, ditampilkan modal konfirmasi, dan kontrak disimpan ke \textit{database} serta dikirim kepada pengguna untuk mengaktifkan masa kontrak.
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=0.5\linewidth]{assets/pics/payroll list.png}}
+    \fbox{\includegraphics[width=0.7\linewidth]{assets/pics/payroll list.png}}
     \caption{\textit{Flowchart Payroll List}}
 \end{figure}
 
-\hspace{2em} Gambar 3.8 adalah \textit{flowchart} pada halaman \textit{Payroll List}. Proses dimulai dengan pemanggilan GET API untuk menampilkan seluruh item \textit{Payroll Setting}. Pengguna dapat membuat item \textit{payroll} baru apabila mendapatkan \textit{permission create}. (flowchartnya ada yang salah)
+\hspace{2em} Gambar 3.8 adalah \textit{flowchart} pada halaman \textit{Payroll List}. Proses dimulai dengan pemanggilan GET API untuk menampilkan seluruh item \textit{Payroll Setting}. Pengguna dapat melihat seluruh item Payroll Setting apabila mendapatkan \textit{permission read}. Pengguna dapat membuat item \textit{payroll} baru apabila mendapatkan \textit{permission create} berdasarkan role yang dimiliki.
 
 \begin{figure}
     \centering
@@ -174,11 +175,11 @@
     \caption{\textit{Flowchart Payroll Create}}
 \end{figure}
 
-\hspace{2em} Gambar 3.9 merupakan \textit{flowchart} pada halaman \textit{Payroll Create}. Proses dimulai dengan menampilkan \textit{form field} untuk pengisian \textit{item payroll}. Selanjutnya, akan ditampilkan modal konfirmasi pengajuan. Lalu, data akan disimpan ke dalam \textit{database}.
+\hspace{2em} Gambar 3.9 merupakan \textit{flowchart} pada halaman \textit{Payroll Create}. Proses dimulai dengan menampilkan \textit{form field} untuk pengisian \textit{item payroll} oleh \textit{admin}, di mana data yang diperlukan mencakup \textit{item payroll} dan \textit{description}. Setelah \textit{admin} melengkapi data, sistem akan memunculkan sebuah modal konfirmasi pengajuan untuk melakukan validasi. Jika konfirmasi disetujui, maka data akan disimpan ke dalam \textit{database} agar dapat digunakan kembali secara fleksibel dalam modul \textit{payslip} dan \textit{contract} karyawan.
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=0.7\linewidth]{assets/pics/dashboard flow.png}}
+    \fbox{\includegraphics[width=0.65\linewidth]{assets/pics/dashboard flow.png}}
     \caption{\textit{Flowchart Attendance System}}
 \end{figure}
 
@@ -187,7 +188,7 @@
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=1\linewidth]{assets/pics/dashboard fixed.png}}
+    \fbox{\includegraphics[width=0.9\linewidth]{assets/pics/dashboard fixed.png}}
     \caption{\textit{Flowchart Attendance System Fixed Type}}
 \end{figure}
 
@@ -195,7 +196,7 @@
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=0.7\linewidth]{assets/pics/dashboard shift.png}}
+    \fbox{\includegraphics[width=1\linewidth]{assets/pics/dashboard shift.png}}
     \caption{\textit{Flowchart Attendance System Shift Type}}
 \end{figure}
 
@@ -253,7 +254,7 @@
     \caption{\textit{Wireframe Contract Detail}}
 \end{figure}
 
-\hspace{2em} Gambar 3.18 adalah \textit{wireframe} pada halaman \textit{Contract Detail}. Halaman ini menampilkan seluruh informasi kontrak yang telah dibuat dan menyediakan sejumlah aksi yang dapat dilakukan, seperti \textit{approve, reject, cancel,} atau \textit{terminate}, sesuai dengan status kontrak yang sedang berjalan.
+\hspace{2em} Gambar 3.18 adalah \textit{wireframe} pada halaman \textit{Contract Detail}. Halaman ini menampilkan seluruh informasi kontrak yang telah dibuat dan menyediakan sejumlah aksi yang dapat dilakukan, seperti \textit{approve, reject, cancel,} atau \textit{terminate}, sesuai dengan status kontrak yang sedang berjalan. Apabila status kontrak adalah \textit{pending} maka aksi yang dapat dilakukan \textit{accept} atau \textit{reject}. Jika status kontrak adalah \textit{approve} maka aksi yang dapat dilakukan adalah \textit{cancel} dan status kontrak \textit{on going} maka aksi yang dapat dilakukan adalah \textit{terminate}.
 
 \begin{figure}
     \centering
@@ -265,7 +266,7 @@
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=0.8\linewidth]{assets/pics/wire payroll create.png}}
+    \fbox{\includegraphics[width=1\linewidth]{assets/pics/wire payroll create.png}}
     \caption{\textit{Wireframe Payroll setting Input}}
 \end{figure}
 
@@ -273,48 +274,48 @@
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=0.8\linewidth]{assets/pics/wire payroll detail.png}}
+    \fbox{\includegraphics[width=1\linewidth]{assets/pics/wire payroll detail.png}}
     \caption{\textit{Wireframe Payroll setting Detail}}
 \end{figure}
 
-\hspace{2em} Gambar 3.21 adalah \textit{wireframe} pada halaman \textit{Payroll setting Detail}.
-Halaman ini menampilkan informasi lengkap mengenai \textit{item payroll} yang telah dibuat, seperti \textit{item name} dan \textit{description}.
+\hspace{2em} Gambar 3.21 adalah \textit{wireframe} pada halaman \textit{Payroll setting Detail}. Halaman ini menampilkan informasi lengkap mengenai \textit{item payroll} yang telah dibuat, seperti \textit{item name} dan \textit{description}. Selain menampilkan informasi, halaman ini dapat untuk memastikan bahwa setiap komponen gaji yang didefinisikan sudah memiliki penjelasan yang cukup.
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=0.8\linewidth]{assets/pics/wire attend fixed.png}}
+    \fbox{\includegraphics[width=1\linewidth]{assets/pics/wire attend fixed.png}}
     \caption{\textit{Wireframe Attendance work type Fixed}}
 \end{figure}
 
-\hspace{2em} Gambar 3.22 adalah \textit{wireframe} pada halaman \textit{Dashboard attendance work type fixed}. Pada halaman ini, pengguna dapat melakukan proses absensi yang meliputi \textit{clock in, clock out}, serta absensi untuk jam makan siang sesuai dengan jadwal yang telah ditetapkan pada kontrak kerja dengan tipe \textit{fixed}.
+\hspace{2em} Gambar 3.22 adalah \textit{wireframe} pada halaman \textit{Dashboard attendance work type fixed}. Pada halaman ini, pengguna dapat melakukan proses absensi yang meliputi \textit{clock in, clock out}, serta absensi untuk jam makan siang sesuai dengan jadwal yang telah ditetapkan pada kontrak kerja dengan tipe \textit{fixed}. Apabila pengguna tidak mendapatkan jam makan siang, maka fitur tersebut tidak akan ditampilkan pada halaman ini.
 
+\hspace{2em} Pengguna memulai proses absensi dengan melakukan \textit{clock in} sesuai jadwal yang telah ditetapkan. Setelah itu, pengguna mengisi aktivitas kerja yang akan ditampilkan pada bagian \textit{standup feed}. Selanjutnya, apabila pengguna memiliki jadwal makan siang, sistem \textit{lunch} akan aktif dan menjalankan \textit{countdown} hingga waktu makan siang berakhir. Namun, bagi pengguna yang tidak memiliki jadwal makan siang, proses absensi tetap dapat dilanjutkan dengan melakukan \textit{clock out} sesuai dengan ketentuan yang tercantum pada kontrak kerja.
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=0.8\linewidth]{assets/pics/wire attend shift.png}}
+    \fbox{\includegraphics[width=0.9\linewidth]{assets/pics/wire attend shift.png}}
     \caption{\textit{Wireframe Attendance work type Shift}}
 \end{figure}
 
-\hspace{2em} Gambar 3.23 adalah \textit{wireframe} pada halaman \textit{Dashboard attendance work type shift}. Pada halaman ini, pengguna dapat melakukan proses absensi dengan memilih jadwal \textit{shift} yang akan dilakukan terlebih dahulu, pilihan tersebut didapat berdasarkan jadwal yang telah ditetapkan pada kontrak kerja dengan tipe \textit{shift}.
+\hspace{2em} Gambar 3.23 adalah \textit{wireframe} pada halaman \textit{Dashboard Attendance Work Type Shift}. Pada halaman ini, pengguna dapat melakukan proses absensi dengan memilih jadwal \textit{shift} yang akan dijalani terlebih dahulu. Pilihan \textit{shift} tersebut ditampilkan berdasarkan jadwal kerja yang telah ditetapkan pada kontrak kerja dengan tipe \textit{shift}. Melalui tampilan ini, sistem memastikan bahwa proses absensi dilakukan sesuai dengan jadwal yang berlaku sehingga data kehadiran karyawan dapat tercatat secara akurat.
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=0.8\linewidth]{assets/pics/wire event dash.png}}
+    \fbox{\includegraphics[width=0.9\linewidth]{assets/pics/wire event dash.png}}
     \caption{\textit{Wireframe Event Dashboard}}
 \end{figure}
 
-\hspace{2em} Gambar 3.24 adalah \textit{wireframe} pada halaman \textit{Dashboard}. Pada halaman ini menampilkan daftar \textit{event} yang tersedia sebagai \textit{announcement} pada halaman utama, serta memungkinkan pengguna untuk melihat \textit{event} berdasarkan tanggal yang dipilih.
+\hspace{2em} Gambar 3.24 adalah \textit{wireframe} pada halaman \textit{Dashboard}. Pada halaman ini menampilkan daftar \textit{event} yang tersedia sebagai \textit{announcement} pada halaman utama, serta memungkinkan pengguna untuk melihat \textit{event} berdasarkan tanggal yang dipilih. Detail informasi \textit{event} dapat diakses melalui list yang tersedia dengan mengklik judul \textit{event} tersebut. Fitur \textit{event} ini tersedia di semua halaman \textit{dashboard} pengguna yang memiliki akses kedalam \textit{Human Resource Information System} (HRIS) .
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=0.8\linewidth]{assets/pics/wire calendar view.png}}
+    \fbox{\includegraphics[width=1\linewidth]{assets/pics/wire calendar view.png}}
     \caption{\textit{Wireframe Event Calendar}}
 \end{figure}
 
-\hspace{2em} Gambar 3.25 adalah \textit{wireframe} pada halaman Event Calendar. Pada halaman ini menampilkan daftar jadwal dalam bentuk kalender dan memungkinkan pengguna untuk melihat tampilan jadwal berdasarkan mode \textit{month, week,} maupun \textit{day}, sehingga detail tanggal dan waktu kegiatan dapat dipantau dengan lebih mudah dan terstruktur.
+\hspace{2em} Gambar 3.25 adalah \textit{wireframe} pada halaman \textit{Event Calendar}. Pada halaman ini menampilkan daftar jadwal dalam bentuk kalender dan memungkinkan pengguna untuk melihat tampilan jadwal berdasarkan mode \textit{month, week,} maupun \textit{day}, sehingga detail tanggal dan waktu kegiatan dapat dipantau dengan lebih mudah dan terstruktur. Terdapat list kegiatan di setiap tanggalnya yang menampilkan maksimal tiga kegiatan. Untuk menambahkan kegiatan baru, pengguna dapat mengklik tombol (\textit{add event}) yang akan mengarahkan ke halaman \textit{Event Input}.
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=0.8\linewidth]{assets/pics/wire calendar create.png}}
+    \fbox{\includegraphics[width=0.9\linewidth]{assets/pics/wire calendar create.png}}
     \caption{\textit{Wireframe Event Input}}
 \end{figure}
 
@@ -322,11 +323,11 @@ Halaman ini menampilkan informasi lengkap mengenai \textit{item payroll} yang te
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=0.7\linewidth]{assets/pics/wire calendar create.png}}
+    \fbox{\includegraphics[width=1\linewidth]{assets/pics/wire calendar modal.png}}
     \caption{\textit{Wireframe Event Modal}}
 \end{figure}
 
-\hspace{2em} Gambar 3.27 adalah \textit{wireframe} pada bagian \textit{Event Modal} pada halaman \textit{Event Calendar}. Bagian ini menampilkan detail lengkap dari jadwal yang dipilih, meliputi judul kegiatan, deskripsi, media atau \textit{file} terkait, daftar tamu yang diundang, serta tipe jadwal yang sedang ditampilkan.
+\hspace{2em} Gambar 3.27 adalah \textit{wireframe} pada bagian \textit{Event Modal} pada halaman \textit{Event Calendar}. Bagian ini menampilkan detail lengkap dari jadwal yang dipilih, meliputi judul kegiatan, deskripsi, media atau \textit{file} terkait, daftar tamu yang diundang, serta tipe jadwal yang sedang ditampilkan. File tersebut dapat diakses langsung melalui tautan yang tersedia. Selain itu, terdapat opsi untuk mengedit atau menghapus jadwal, di mana hanya pembuat jadwal yang memiliki hak akses untuk melakukan penghapusan.
 
 \section{Implementasi}
 
@@ -334,7 +335,7 @@ Halaman ini menampilkan informasi lengkap mengenai \textit{item payroll} yang te
 
 \begin{figure}
     \centering
-    \fbox{\includegraphics[width=1\linewidth]{assets/pics/contract list view.png}}
+    \fbox{\includegraphics[width=0.9\linewidth]{assets/pics/contract list view.png}}
     \caption{Tampilan \textit{Contract List}}
 \end{figure}
 
@@ -405,23 +406,21 @@ Halaman ini menampilkan informasi lengkap mengenai \textit{item payroll} yang te
 
 \hspace{2em} Gambar 3.36 menunjukkan tampilan modal \textit{Delete} pada halaman \textit{Payroll Setting List}. Modal ini berfungsi sebagai konfirmasi sebelum suatu item \textit{payroll} dihapus dari sistem. Dengan adanya modal ini, pengguna dapat memastikan tindakan penghapusan benar-benar diinginkan sehingga mengurangi risiko kesalahan penghapusan data.
 
-\begin{figure}[H]
+\begin{figure}
     \centering
-    \begin{subfigure}[b]{1\linewidth}
-        \centering
-        \fbox{\includegraphics[width=0.8\linewidth]{assets/pics/payroll setting input.png}}
-        \caption{Tampilan \textit{Payroll Setting Input}}
-    \end{subfigure}
-    \hfill
-    \begin{subfigure}[b]{1\linewidth}
-        \centering
-        \fbox{\includegraphics[width=0.8\linewidth]{assets/pics/payroll setting input 2.png}}
-        \caption{Tampilan \textit{Payroll Setting Input Add Row}}
-    \end{subfigure}
-    \caption{Tampilan \textit{Payroll Setting Input}}
-\end{figure}
+    \fbox{\includegraphics[width=0.9\linewidth]{assets/pics/payroll setting input.png}}
+ \caption{Tampilan \textit{Payroll Setting Input}}
+ \end{figure}
+ 
+ \hspace{2em} Gambar 3.37 menunjukkan tampilan halaman \textit{Payroll Setting Input}. Pada halaman ini, \textit{user} dapat membuat item \textit{payroll} baru yang nantinya dapat dipilih saat proses pembuatan kontrak pada bagian \textit{salary and benefit}. Tersedia beberapa \textit{form field} utama, yaitu \textit{Item Name} dan \textit{Description}, yang digunakan untuk mendefinisikan detail item \textit{payroll} yang akan ditambahkan ke dalam sistem.
+ 
+ \begin{figure}
+    \centering
+    \fbox{\includegraphics[width=0.9\linewidth]{assets/pics/payroll setting input 2.png}}
+ \caption{Tampilan \textit{Payroll Setting Input Add Row}}
+ \end{figure}
 
-\hspace{2em} Gambar 3.37 (a) menunjukkan tampilan halaman \textit{Payroll Setting Input}. Pada halaman ini, \textit{user} dapat membuat item \textit{payroll} baru yang nantinya dapat dipilih saat pembuatan kontrak pada bagian \textit{salary and benefit}. Tersedia beberapa \textit{form field}, yaitu \textit{Item Name} dan \textit{Description}. Selain itu, terdapat tombol \textit{Add Row} jika \textit{user} ingin menambahkan lebih dari satu item dalam satu kali input seperti pada tampilan Gambar 3.37 (b).
+\hspace{2em} Gambar 3.38 menampilkan kondisi halaman \textit{Payroll Setting Input} ketika fitur \textit{Add Row} digunakan. Fitur ini memungkinkan \textit{user} untuk menambahkan lebih dari satu item \textit{payroll} dalam satu kali proses input. Dengan adanya fitur ini, proses pengelolaan data \textit{payroll} menjadi lebih efisien karena pengguna tidak perlu melakukan penginputan item satu per satu secara terpisah.
 
 \begin{figure}
     \centering
@@ -429,7 +428,7 @@ Halaman ini menampilkan informasi lengkap mengenai \textit{item payroll} yang te
     \caption{Tampilan \textit{Attendance work type Fixed}}
 \end{figure}
 
-\hspace{2em} Gambar 3.38 menunjukkan tampilan halaman \textit{Dashboard}. Pada halaman ini, \textit{user} dapat melakukan sistem \textit{attendance} dengan \textit{work type Fixed}, sehingga akan muncul \textit{card} tambahan \textit{Lunch Attendance} apabila terdapat jadwal \textit{lunch} pada kontrak yang telah dibuat. Sistem \textit{attendance} akan aktif berdasarkan jadwal yang ditetapkan di dalam kontrak, dan fitur \textit{Lunch Time} akan aktif setelah \textit{user} melakukan \textit{Clock In}.
+\hspace{2em} Gambar 3.39 menunjukkan tampilan halaman \textit{Dashboard}. Pada halaman ini, \textit{user} dapat melakukan sistem \textit{attendance} dengan \textit{work type Fixed}, sehingga akan muncul \textit{card} tambahan \textit{Lunch Attendance} apabila terdapat jadwal \textit{lunch} pada kontrak yang telah dibuat. Sistem \textit{attendance} akan aktif berdasarkan jadwal yang ditetapkan di dalam kontrak, dan fitur \textit{Lunch Time} akan aktif setelah \textit{user} melakukan \textit{Clock In}.
 
 \begin{figure}
     \centering
@@ -437,91 +436,77 @@ Halaman ini menampilkan informasi lengkap mengenai \textit{item payroll} yang te
     \caption{Tampilan \textit{Attendance work type Shift}}
 \end{figure}
 
-\hspace{2em} Gambar 3.39 menunjukkan tampilan halaman \textit{Dashboard}. Pada halaman ini, \textit{user} dapat melakukan \textit{attendance} dengan \textit{work type Shift}, sehingga tersedia \textit{dropdown} untuk memilih jadwal \textit{shift} sebelum melakukan \textit{Clock In}. Sistem akan menolak proses \textit{Clock In} apabila \textit{user} tidak memilih \textit{shift} yang sesuai dengan waktu masuk yang ditentukan.
+\hspace{2em} Gambar 3.40 menunjukkan tampilan halaman \textit{Dashboard}. Pada halaman ini, \textit{user} dapat melakukan \textit{attendance} dengan \textit{work type Shift}, sehingga tersedia \textit{dropdown} untuk memilih jadwal \textit{shift} sebelum melakukan \textit{Clock In}. Sistem akan menolak proses \textit{Clock In} apabila \textit{user} tidak memilih \textit{shift} yang sesuai dengan waktu masuk yang ditentukan.
 
-\begin{figure}[H]
+\begin{figure}
     \centering
-    \begin{subfigure}[b]{0.8\linewidth}
-        \centering
-        \fbox{\includegraphics[width=\linewidth]{assets/pics/dashboard before.png}}
-        \caption*{(a) Tampilan \textit{Before}}
-    \end{subfigure}
-    \hfill
-    \begin{subfigure}[b]{0.8\linewidth}
-        \centering
-        \fbox{\includegraphics[width=\linewidth]{assets/pics/dashboard after.png}}
-        \caption*{(b) Tampilan \textit{After}}
-    \end{subfigure}
-    \caption{Tampilan halaman \textit{Dashboard} \textit{Before} dan \textit{After}}
+    \fbox{\includegraphics[width=0.8\linewidth]{assets/pics/dashboard before.png}}
+    \caption{Tampilan halaman \textit{Dashboard} \textit{Before}}
 \end{figure}
 
-\hspace{2em} Gambar 3.40 (a) menunjukkan tampilan \textit{Dashboard} sebelum ditambahkan fitur \textit{Event Announcement}. Pada tampilan sebelumnya, belum tersedia informasi terkait acara yang berlangsung, sehingga menyulitkan \textit{user} untuk mengetahui acara apa saja yang ada pada hari tertentu dan mengharuskan mereka membuka halaman \textit{Event} terlebih dahulu.
+\hspace{2em} Gambar 3.41 menunjukkan tampilan \textit{Dashboard} sebelum ditambahkan fitur \textit{Event Announcement}. Pada tampilan sebelumnya, belum tersedia informasi terkait acara yang berlangsung, sehingga menyulitkan \textit{user} untuk mengetahui acara apa saja yang ada pada hari tertentu dan mengharuskan mereka membuka halaman \textit{Event} terlebih dahulu.
 
-\hspace{2em} Gambar 3.40 (b) menunjukkan tampilan \textit{Dashboard} setelah penambahan fitur \textit{Event Announcement}. Fitur ini berfungsi untuk menampilkan informasi acara yang diadakan berdasarkan hari yang dipilih, sehingga memudahkan \textit{user} untuk mengetahui acara yang tersedia maupun yang baru ditambahkan tanpa perlu membuka halaman \textit{Event} terlebih dahulu. Selain itu, fitur ini telah dilengkapi dengan implementasi Websocket untuk memberikan pembaruan informasi acara secara \textit{real-time}, sehingga setiap perubahan dapat langsung terlihat oleh pengguna.
-
-\begin{figure}[H]
+\begin{figure}
     \centering
-    \begin{subfigure}[b]{1\linewidth}
-        \centering
-        \fbox{\includegraphics[width=\linewidth]{assets/pics/event calendar.png}}
-        \caption*{(a) Tampilan Jadwal \textit{Event}}
-    \end{subfigure}
-    \hfill
-    \begin{subfigure}[b]{1\linewidth}
-        \centering
-        \fbox{\includegraphics[width=\linewidth]{assets/pics/event calendar collapse.png}}
-        \caption*{(b) Tampilan Jadwal \textit{Event collapse}}
-    \end{subfigure}
-    \caption{Tampilan halaman \textit{Event Calendar}}
+    \fbox{\includegraphics[width=0.8\linewidth]{assets/pics/dashboard after.png}}
+    \caption{Tampilan halaman \textit{Dashboard} \textit{After}}
 \end{figure}
 
-\hspace{2em} Gambar 3.41 (a) menunjukkan tampilan \textit{Event Calendar}. Pada halaman ini menampilkan seluruh kegiatan yang telah dibuat sesuai dengan tanggal dan waktu yang telah ditetapkan. Jika terdapat lebih dari dua kegiatan pada tanggal yang sama, tersedia tombol \textit{See More} yang akan mengarahkan pengguna ke tampilan mode \textit{Day} untuk melihat seluruh kegiatan pada hari tersebut. Selain itu, apabila terdapat jadwal yang saling bertumpukan atau \textit{collapse} pada waktu yang sama, sistem akan menampilkan sebuah modal berisi daftar kegiatan yang waktunya saling bertabrakan, seperti ditunjukkan pada Gambar 3.41 (b).
+\hspace{2em} Gambar 3.42 menunjukkan tampilan \textit{Dashboard} setelah penambahan fitur \textit{Event Announcement}. Fitur ini berfungsi untuk menampilkan informasi acara yang diadakan berdasarkan hari yang dipilih, sehingga memudahkan \textit{user} untuk mengetahui acara yang tersedia maupun yang baru ditambahkan tanpa perlu membuka halaman \textit{Event} terlebih dahulu. Selain itu, fitur ini telah dilengkapi dengan implementasi Websocket untuk memberikan pembaruan informasi acara secara \textit{real-time}, sehingga setiap perubahan dapat langsung terlihat oleh pengguna.
+
+\begin{figure}
+    \centering
+    \fbox{\includegraphics[width=1\linewidth]{assets/pics/event calendar.png}}
+    \caption{Tampilan Jadwal \textit{Event}}
+\end{figure}
+
+\hspace{2em} Gambar 3.43 menunjukkan tampilan halaman \textit{Event Calendar} yang menampilkan seluruh kegiatan yang telah dibuat berdasarkan tanggal dan waktu yang telah ditetapkan. Pada halaman ini, pengguna dapat melihat daftar kegiatan secara ringkas dalam tampilan kalender. Apabila terdapat lebih dari dua kegiatan pada tanggal yang sama, sistem menyediakan tombol \textit{See More} yang akan mengarahkan pengguna ke tampilan mode \textit{Day} untuk melihat seluruh kegiatan pada hari tersebut secara lebih detail.
+
+\begin{figure}
+    \centering
+    \fbox{\includegraphics[width=1\linewidth]{assets/pics/event calendar collapse.png}}
+    \caption{Tampilan Jadwal \textit{Event collapse}}
+\end{figure}
 
 \pagebreak
-\hspace{2em} Pada menu \textit{Event} di \textit{sidebar}, terdapat \textit{badge notification} yang menunjukkan jumlah total \textit{event} yang belum dilihat atau dibuka detailnya oleh pengguna. Di dalam kalender, \textit{event} yang belum dibuka juga ditandai dengan sebuah titik (\textit{dot}) berwarna putih sebagai indikator bahwa detail kegiatan tersebut masih belum dilihat.
 
-\begin{figure}[H]
+\hspace{2em} Gambar 3.44 menampilkan kondisi ketika terdapat jadwal kegiatan yang saling bertumpukan atau \textit{collapse} pada waktu yang sama. Pada kondisi ini, sistem akan menampilkan sebuah \textit{modal} yang berisi daftar kegiatan dengan waktu yang saling bertabrakan. Melalui tampilan tersebut, pengguna dapat mengetahui seluruh kegiatan yang berlangsung pada waktu yang sama tanpa kehilangan informasi terkait jadwal lainnya.
+
+\hspace{2em} Selain itu, sistem juga menyediakan indikator notifikasi untuk membantu pengguna memantau kegiatan yang belum ditinjau. Pada menu \textit{Event} di \textit{sidebar}, ditampilkan \textit{badge notification} yang menunjukkan jumlah total \textit{event} yang belum dibuka atau dilihat detailnya. Di dalam kalender, \textit{event} yang belum dibuka ditandai dengan sebuah titik (\textit{dot}) berwarna putih sebagai penanda visual bahwa informasi kegiatan tersebut masih perlu diperhatikan oleh pengguna.
+
+\begin{figure}
     \centering
-    \begin{subfigure}[b]{1\linewidth}
-        \centering
-        \fbox{\includegraphics[width=\linewidth]{assets/pics/event modal meeting.png}}
-        \caption*{(a) Tampilan modal detail \textit{Event type Meeting} atau \textit{Schedule}}
-    \end{subfigure}
-    \hfill
-    \begin{subfigure}[b]{1\linewidth}
-        \centering
-        \fbox{\includegraphics[width=\linewidth]{assets/pics/event modal holiday.png}}
-        \caption*{(b) Tampilan modal detail \textit{Event type Holiday}}
-    \end{subfigure}
-    \caption{Tampilan halaman \textit{Event Calendar} modal detail}
+    \fbox{\includegraphics[width=1\linewidth]{assets/pics/event modal meeting.png}}
+    \caption{ Tampilan modal detail \textit{Event type Meeting} atau \textit{Schedule}}
 \end{figure}
 
-\hspace{2em} Gambar 3.42 (a) menunjukkan tampilan modal detail \textit{Event Calendar} untuk tipe \textit{meeting} atau \textit{schedule}. Pada bagian ini ditampilkan informasi lengkap mengenai kegiatan, seperti judul \textit{event}, deskripsi, media atau dokumen terkait, tanggal dan waktu pelaksanaan, daftar tamu yang diundang, serta tipe \textit{event}.
+\hspace{2em} Gambar 3.45 menunjukkan tampilan modal detail \textit{Event Calendar} untuk tipe \textit{meeting} atau \textit{schedule}. Pada bagian ini ditampilkan informasi lengkap mengenai kegiatan, seperti judul \textit{event}, deskripsi, media atau dokumen terkait, tanggal dan waktu pelaksanaan, daftar tamu yang diundang, serta tipe \textit{event}.
 
-\hspace{2em} Sementara itu, Gambar 3.42 (b) menampilkan modal detail \textit{Event Calendar} untuk tipe \textit{holiday}. Modal ini hanya berisi informasi judul hari libur, deskripsi, serta tanggal pelaksanaan. Untuk tipe \textit{holiday}, \textit{event} secara otomatis dikirimkan ke seluruh pengguna dan diatur berlangsung sepanjang hari (\textit{all day}).
+\begin{figure}
+    \centering
+    \fbox{\includegraphics[width=1\linewidth]{assets/pics/event modal holiday.png}}
+    \caption{Tampilan modal detail \textit{Event type Holiday}}
+\end{figure}
+
+\hspace{2em} Gambar 3.46 menampilkan modal detail \textit{Event Calendar} untuk tipe \textit{holiday}. Modal ini hanya berisi informasi judul hari libur, deskripsi, serta tanggal pelaksanaan. Untuk tipe \textit{holiday}, \textit{event} secara otomatis dikirimkan ke seluruh pengguna dan diatur berlangsung sepanjang hari (\textit{all day}).
 
 \hspace{2em} Selain itu, terdapat tombol aksi \textit{Edit} (ikon \textit{pencil}) yang mengarahkan pengguna ke halaman \textit{}Event Edit untuk memperbarui kegiatan, serta aksi \textit{Delete} (ikon tempat sampah) untuk menghapus \textit{event}. Aksi ini hanya dapat dilakukan oleh pengguna yang membuat kegiatan tersebut, sedangkan pengguna yang diundang hanya dapat melihat detail informasi tanpa dapat melakukan perubahan.
 
-\begin{figure}[H]
+\begin{figure}
     \centering
-    \begin{subfigure}[b]{0.9\linewidth}
-        \centering
-        \fbox{\includegraphics[width=\linewidth]{assets/pics/event input before.png}}
-        \caption*{(a) Tampilan \textit{Before}}
-    \end{subfigure}
-    \hfill
-    \begin{subfigure}[b]{0.9\linewidth}
-        \centering
-        \fbox{\includegraphics[width=\linewidth]{assets/pics/event input after.png}}
-        \caption*{(b) Tampilan \textit{After}}
-    \end{subfigure}
-    \caption{Tampilan halaman \textit{Event Input} \textit{Before} dan \textit{After}}
+    \fbox{\includegraphics[width=1\linewidth]{assets/pics/event input before.png}}
+    \caption{Tampilan halaman \textit{Event Input} \textit{Before}}
 \end{figure}
 
-\pagebreak
-\hspace{2em} Gambar 3.43 (a) menunjukkan tampilan halaman \textit{Event Input} sebelum dilakukan \textit{revamp}. Pada halaman tersebut, \textit{user} dapat membuat \textit{event}, namun belum tersedia fitur untuk menambahkan \textit{supporting document} atau \textit{description} yang diperlukan untuk memberikan detail tambahan mengenai \textit{event} yang akan dibuat.
+\hspace{2em} Gambar 3.47 menunjukkan tampilan halaman \textit{Event Input} sebelum dilakukan \textit{revamp}. Pada halaman tersebut, \textit{user} dapat membuat \textit{event}, namun belum tersedia fitur untuk menambahkan \textit{supporting document} atau \textit{description} yang diperlukan untuk memberikan detail tambahan mengenai \textit{event} yang akan dibuat.
 
-\hspace{2em} Gambar 3.43 (b) menunjukkan tampilan halaman \textit{Event Input} setelah dilakukan \textit{revamp} pada bagian \textit{form input}. Pada halaman ini ditambahkan \textit{form field Description} untuk memberikan catatan terkait \textit{event}, serta fitur \textit{Upload Media} untuk mengunggah \textit{file} yang diperlukan, seperti \textit{file} PPT untuk keperluan \textit{meeting}.
+\begin{figure}
+    \centering
+    \fbox{\includegraphics[width=1\linewidth]{assets/pics/event input after.png}}
+    \caption{Tampilan halaman \textit{Event Input} \textit{After}}
+\end{figure}
+
+\hspace{2em} Gambar 3.48 menunjukkan tampilan halaman \textit{Event Input} setelah dilakukan \textit{revamp} pada bagian \textit{form input}. Pada halaman ini ditambahkan \textit{form field Description} untuk memberikan catatan terkait \textit{event}, serta fitur \textit{Upload Media} untuk mengunggah \textit{file} yang diperlukan, seperti \textit{file} PPT untuk keperluan \textit{meeting}.
 
 \begin{figure}
     \centering
@@ -529,9 +514,8 @@ Halaman ini menampilkan informasi lengkap mengenai \textit{item payroll} yang te
     \caption{Tampilan halaman \textit{Event Input type Holiday}}
 \end{figure}
 
-\hspace{2em} Gambar 3.44 menunjukkan tampilan halaman \textit{Event Input} dengan tipe holiday. Pada bagian \textit{form input} untuk tipe ini, hanya terdapat \textit{form field Event Name} untuk memberikan nama kegiatan libur, tanggal pelaksanaan yang ditetapkan, serta \textit{form field opsional} seperti \textit{description} dan upload document sebagai kelengkapan informasi terkait hari libur tersebut.
+\hspace{2em} Gambar 3.49 menunjukkan tampilan halaman \textit{Event Input} dengan tipe holiday. Pada bagian \textit{form input} untuk tipe ini, hanya terdapat \textit{form field Event Name} untuk memberikan nama kegiatan libur, tanggal pelaksanaan yang ditetapkan, serta \textit{form field opsional} seperti \textit{description} dan upload document sebagai kelengkapan informasi terkait hari libur tersebut.
 
-\pagebreak
 \section{Kendala dan Solusi yang Ditemukan}
 
 \hspace{2em} Beberapa kendala yang ditemui selama melaksanakan kegiatan magang di PT Visi Karya Nusantara adalah sebagai berikut:
